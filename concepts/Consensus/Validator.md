@@ -1,8 +1,14 @@
 ---
 title: Validator
 description: 블록체인 네트워크에서 검증자(Validator)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [validator, blockchain validator, consensus validator]
-tags: [technology, blockchain, validator, consensus]
+aliases:
+  - validator
+  - blockchain validator
+  - consensus validator
+tags:
+  - validator
+  - consensus
+  - ethereum
 date: 2024-07-22
 ---
 # Summary
@@ -58,9 +64,8 @@ Ethereum의 검증자는 다양한 기술을 활용하여 네트워크의 보안
 
 - [[Staking]]
 - [[Proof of Stake]]
-- [[Blockchain]]
-- [[Security]]
-- [[Validator Node]]
+- [[Ethereum]]
+- [[Validator]]
 - [[Slashing]]
 - [[Casper]]
 - [[LMD-GHOST]]

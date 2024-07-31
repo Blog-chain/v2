@@ -1,8 +1,14 @@
 ---
 title: Archive Node
 description: 블록체인 네트워크에서 아카이브 노드의 역할과 중요성을 다룹니다.
-aliases: [archive node, blockchain archive node]
-tags: [technology, blockchain, node, archive node]
+aliases:
+  - archive node
+  - blockchain archive node
+tags:
+  - blockchain
+  - node
+  - archive
+  - node
 date: 2024-07-22
 ---
 # Summary

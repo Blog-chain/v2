@@ -1,8 +1,14 @@
 ---
 title: Soft Fork
 description: 블록체인 네트워크에서 소프트 포크(Soft Fork)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [soft fork, blockchain soft fork]
-tags: [technology, blockchain, soft fork, consensus]
+aliases:
+  - soft fork
+  - blockchain soft fork
+tags:
+  - blockchain
+  - soft
+  - fork
+  - consensus
 date: 2024-07-22
 ---
 ### Summary

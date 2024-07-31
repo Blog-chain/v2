@@ -1,8 +1,14 @@
 ---
 title: Slashing
 description: 블록체인 네트워크에서 슬래싱(Slashing)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [slashing, blockchain slashing, validator slashing]
-tags: [technology, blockchain, slashing, consensus]
+aliases:
+  - slashing
+  - blockchain slashing
+  - validator slashing
+tags:
+  - blockchain
+  - slashing
+  - consensus
 date: 2024-07-22
 ---
 ### Summary

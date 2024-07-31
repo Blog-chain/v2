@@ -1,8 +1,13 @@
 ---
 title: ERC-20
 description: ERC-20 표준의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [erc-20, ethereum erc-20, erc20 standard]
-tags: [technology, blockchain, ethereum, erc-20]
+aliases:
+  - erc-20
+  - ethereum erc-20
+  - erc20 standard
+tags:
+  - ethereum
+  - erc
 date: 2024-07-22
 ---
 # Summary
@@ -35,7 +40,6 @@ date: 2024-07-22
 ### References
 
 - [ERC-20 설명](https://en.wikipedia.org/wiki/ERC-20)
-- [ERC-20의 작동 원리](https://ethereum.org/en/glossary/#erc-20)
 - [Gemini의 ERC-20 설명](https://www.gemini.com/cryptopedia/search?query=erc-20)
 
 ### Related Keywords

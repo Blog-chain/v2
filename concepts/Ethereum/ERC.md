@@ -1,8 +1,13 @@
 ---
 title: ERC
 description: 이더리움 네트워크에서 이더리움 요청 의견(ERC)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [erc, ethereum request for comments, erc standards]
-tags: [technology, blockchain, ethereum, erc]
+aliases:
+  - erc
+  - ethereum request for comments
+  - erc standards
+tags:
+  - ethereum
+  - erc
 date: 2024-07-22
 ---
 # Summary

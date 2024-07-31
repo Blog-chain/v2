@@ -1,8 +1,13 @@
 ---
 title: Proof of Work
 description: 블록체인 네트워크에서 작업 증명(Proof of Work)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [proof of work, PoW, blockchain proof of work]
-tags: [technology, blockchain, consensus, proof of work]
+aliases:
+  - proof of work
+  - PoW
+  - blockchain proof of work
+tags:
+  - blockchain
+  - consensus
 date: 2024-07-22
 ---
 ### Summary

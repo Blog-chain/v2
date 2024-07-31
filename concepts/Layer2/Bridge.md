@@ -1,8 +1,14 @@
 ---
 title: Bridge
 description: 블록체인 네트워크에서 브릿지(Bridge)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [bridge, blockchain bridge, layer2 bridge]
-tags: [technology, blockchain, bridge, layer2]
+aliases:
+  - bridge
+  - blockchain bridge
+  - layer2 bridge
+tags:
+  - blockchain
+  - bridge
+  - layer2
 date: 2024-07-22
 ---
 # Summary

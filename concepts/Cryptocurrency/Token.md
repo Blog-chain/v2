@@ -1,8 +1,12 @@
 ---
 title: Token
 description: 암호화폐 네트워크에서 토큰(Token)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [token, cryptocurrency token]
-tags: [technology, cryptocurrency, token]
+aliases:
+  - token
+  - cryptocurrency token
+tags:
+  - cryptocurrency
+  - token
 date: 2024-07-22
 ---
 ### Summary

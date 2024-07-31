@@ -2,8 +2,14 @@
 title: Optimistic Rollup
 description: 블록체인 네트워크에서 옵티미스틱 롤업(Optimistic Rollup)의 개념, 역할, 및 중요성을 다룹니다.
 aliases:
-  [optimistic rollup, blockchain optimistic rollup, layer2 optimistic rollup]
-tags: [technology, blockchain, optimistic rollup, layer2]
+  - optimistic rollup
+  - blockchain optimistic rollup
+  - layer2 optimistic rollup
+tags:
+  - blockchain
+  - optimistic
+  - rollup
+  - layer2
 date: 2024-07-22
 ---
 # Summary

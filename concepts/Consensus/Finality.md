@@ -1,8 +1,14 @@
 ---
 title: Finality
 description: 블록체인 네트워크에서 파이널리티(Finality)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [finality, blockchain finality, transaction finality]
-tags: [technology, blockchain, finality, consensus]
+aliases:
+  - finality
+  - blockchain finality
+  - transaction finality
+tags:
+  - blockchain
+  - finality
+  - consensus
 date: 2024-07-22
 ---
 ### Summary

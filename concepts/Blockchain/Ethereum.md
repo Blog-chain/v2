@@ -1,8 +1,14 @@
 ---
 title: Ethereum
 description: 이더리움의 개념, 역사, 기술적 특징 및 작동 방식을 다룹니다.
-aliases: [ethereum, ETH, cryptocurrency]
-tags: [technology, blockchain, ethereum, cryptocurrency]
+aliases:
+  - ethereum
+  - ETH
+  - cryptocurrency
+tags:
+  - blockchain
+  - ethereum
+  - cryptocurrency
 date: 2024-07-22
 ---
 ### Summary

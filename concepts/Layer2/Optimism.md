@@ -1,8 +1,14 @@
 ---
 title: Optimism
 description: 블록체인 네트워크에서 옵티미즘(Optimism)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [optimism, blockchain optimism, layer2 optimism]
-tags: [technology, blockchain, optimism, layer2]
+aliases:
+  - optimism
+  - blockchain optimism
+  - layer2 optimism
+tags:
+  - blockchain
+  - optimism
+  - layer2
 date: 2024-07-22
 ---
 # Summary

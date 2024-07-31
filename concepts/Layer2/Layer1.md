@@ -1,8 +1,13 @@
 ---
 title: Layer 1 Blockchain
 description: Layer 1 블록체인의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [layer 1, layer 1 blockchain, blockchain layer 1]
-tags: [technology, blockchain, layer1]
+aliases:
+  - layer 1
+  - layer 1 blockchain
+  - blockchain layer 1
+tags:
+  - blockchain
+  - layer1
 date: 2024-07-22
 ---
 # Summary

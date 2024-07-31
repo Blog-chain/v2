@@ -1,8 +1,14 @@
 ---
 title: Bitcoin
 description: 비트코인의 개념, 역사, 기술적 특징 및 작동 방식을 다룹니다.
-aliases: [bitcoin, BTC, cryptocurrency]
-tags: [technology, blockchain, bitcoin, cryptocurrency]
+aliases:
+  - bitcoin
+  - BTC
+  - cryptocurrency
+tags:
+  - blockchain
+  - bitcoin
+  - cryptocurrency
 date: 2024-07-22
 ---
 # Summary

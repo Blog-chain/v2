@@ -1,8 +1,13 @@
 ---
 title: Fintech
 description: 금융 기술(Fintech)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [fintech, financial technology, fintech industry]
-tags: [technology, finance, fintech]
+aliases:
+  - fintech
+  - financial technology
+  - fintech industry
+tags:
+  - finance
+  - fintech
 date: 2024-07-22
 ---
 # Summary

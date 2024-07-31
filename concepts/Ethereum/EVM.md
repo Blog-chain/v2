@@ -1,8 +1,13 @@
 ---
 title: EVM
 description: 이더리움 네트워크에서 이더리움 가상 머신(EVM)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [evm, ethereum virtual machine, evm ethereum]
-tags: [technology, blockchain, ethereum, evm]
+aliases:
+  - evm
+  - ethereum virtual machine
+  - evm ethereum
+tags:
+  - ethereum
+  - evm
 date: 2024-07-22
 ---
 # Summary

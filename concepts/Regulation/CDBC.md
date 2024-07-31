@@ -1,8 +1,14 @@
 ---
 title: CBDCs
 description: 중앙은행 디지털 통화(CBDCs)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [cbdcs, central bank digital currencies, cbdc]
-tags: [technology, finance, cbdcs, blockchain]
+aliases:
+  - cbdcs
+  - central bank digital currencies
+  - cbdc
+tags:
+  - finance
+  - cbdcs
+  - blockchain
 date: 2024-07-22
 ---
 # Summary

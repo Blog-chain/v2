@@ -1,8 +1,14 @@
 ---
 title: CA
 description: 이더리움 네트워크에서 계약 계정(CA)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [ca, contract account, ethereum ca]
-tags: [technology, blockchain, ethereum, ca]
+aliases:
+  - ca
+  - contract account
+  - ethereum ca
+tags:
+  - blockchain
+  - ethereum
+  - ca
 date: 2024-07-22
 ---
 

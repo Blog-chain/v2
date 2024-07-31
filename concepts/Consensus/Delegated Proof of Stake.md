@@ -1,8 +1,14 @@
 ---
 title: Delegated Proof of Stake
 description: 블록체인 네트워크에서 위임된 지분 증명(Delegated Proof of Stake)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [dpos, delegated proof of stake, blockchain dpos]
-tags: [technology, blockchain, consensus, delegated proof of stake]
+aliases:
+  - dpos
+  - delegated proof of stake
+  - blockchain dpos
+tags:
+  - blockchain
+  - consensus
+  - stake
 date: 2024-07-22
 ---
 ### Summary

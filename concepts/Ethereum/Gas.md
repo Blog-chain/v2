@@ -1,8 +1,13 @@
 ---
 title: Gas
 description: 이더리움 네트워크에서 가스(Gas)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [gas, ethereum gas]
-tags: [technology, blockchain, ethereum, gas]
+aliases:
+  - gas
+  - ethereum gas
+tags:
+  - blockchain
+  - ethereum
+  - gas
 date: 2024-07-22
 ---
 # Summary

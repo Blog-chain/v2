@@ -1,8 +1,13 @@
 ---
 title: EIP
 description: 이더리움 네트워크에서 이더리움 개선 제안(EIP)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [eip, ethereum improvement proposal, ethereum eip]
-tags: [technology, blockchain, ethereum, eip]
+aliases:
+  - eip
+  - ethereum improvement proposal
+  - ethereum eip
+tags:
+  - ethereum
+  - eip
 date: 2024-07-22
 ---
 # Summary

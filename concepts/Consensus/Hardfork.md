@@ -1,8 +1,14 @@
 ---
 title: Hard Fork
 description: 블록체인 네트워크에서 하드 포크(Hard Fork)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [hard fork, blockchain hard fork]
-tags: [technology, blockchain, hard fork, consensus]
+aliases:
+  - hard fork
+  - blockchain hard fork
+tags:
+  - blockchain
+  - hard
+  - fork
+  - consensus
 date: 2024-07-22
 ---
 ### Summary

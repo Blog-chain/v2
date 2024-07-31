@@ -1,8 +1,17 @@
 ---
 title: Flashbot
 description: 블록체인 네트워크에서 Flashbots의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [flashbot, flashbots, blockchain flashbot]
-tags: [technology, blockchain, flashbot, mev, miner extractable value]
+aliases:
+  - flashbot
+  - flashbots
+  - blockchain flashbot
+tags:
+  - blockchain
+  - flashbot
+  - mev
+  - miner
+  - extractable
+  - value
 date: 2024-07-22
 ---
 ### Summary

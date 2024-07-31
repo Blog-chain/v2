@@ -1,8 +1,15 @@
 ---
 title: ZK Rollup
 description: 블록체인 네트워크에서 ZK 롤업(ZK Rollup)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [zk rollup, zero-knowledge rollup, blockchain zk rollup]
-tags: [technology, blockchain, zk rollup, layer2]
+aliases:
+  - zk rollup
+  - zero-knowledge rollup
+  - blockchain zk rollup
+tags:
+  - blockchain
+  - zk
+  - rollup
+  - layer2
 date: 2024-07-22
 ---
 # Summary

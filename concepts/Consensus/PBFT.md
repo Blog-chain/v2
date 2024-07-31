@@ -1,11 +1,15 @@
 ---
 title: PBFT
 description: Practical Byzantine Fault Tolerance (PBFT) 알고리즘의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [pbft, practical byzantine fault tolerance, blockchain pbft]
-tags: [technology, blockchain, pbft, consensus]
+aliases:
+  - practical byzantine fault tolerance
+tags:
+  - blockchain
+  - consensus
+  - Byzantine-fault
 date: 2024-07-22
 ---
-### Summary
+# Summary
 
 `PBFT (Practical Byzantine Fault Tolerance)`는 블록체인 네트워크에서 Byzantine Fault Tolerance를 구현하는 합의 알고리즘입니다.
 
@@ -36,8 +40,7 @@ PBFT는 다양한 기술을 활용하여 네트워크의 보안을 유지하고 
 
 ### References
 
-- [PBFT 설명](https://en.wikipedia.org/wiki/Practical_Byzantine_Fault_Tolerance)
-- [PBFT의 작동 원리](https://ethereum.org/en/glossary/#pbft)
+- [Byzantine fault](https://en.wikipedia.org/wiki/Practical_Byzantine_Fault_Tolerance)
 - [Gemini의 PBFT 설명](https://www.gemini.com/cryptopedia/search?query=pbft)
 
 ### Related Keywords

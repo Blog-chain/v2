@@ -1,8 +1,12 @@
 ---
 title: EVM-compatible
 description: EVM과 호환되는 네트워크 및 스마트 계약의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [evm-compatible, ethereum evm compatible]
-tags: [technology, blockchain, ethereum, evm]
+aliases:
+  - evm-compatible
+  - ethereum evm compatible
+tags:
+  - ethereum
+  - evm
 date: 2024-07-22
 ---
 # Summary

@@ -1,8 +1,13 @@
 ---
 title: NFT
 description: 암호화폐 네트워크에서 대체 불가능 토큰(NFT)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [nft, cryptocurrency nft, non-fungible token]
-tags: [technology, cryptocurrency, nft]
+aliases:
+  - nft
+  - cryptocurrency nft
+  - non-fungible token
+tags:
+  - cryptocurrency
+  - nft
 date: 2024-07-22
 ---
 # Summary

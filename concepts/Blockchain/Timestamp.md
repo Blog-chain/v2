@@ -1,8 +1,12 @@
 ---
 title: Timestamp
 description: 블록체인에서 타임스탬프의 역할과 중요성을 다룹니다.
-aliases: [timestamp, blockchain timestamp]
-tags: [technology, blockchain, timestamp]
+aliases:
+  - timestamp
+  - blockchain timestamp
+tags:
+  - blockchain
+  - timestamp
 date: 2024-07-22
 ---
 ### Summary

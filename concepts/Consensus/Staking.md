@@ -1,8 +1,14 @@
 ---
 title: Staking
 description: 블록체인 네트워크에서 스테이킹(Staking)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [staking, blockchain staking, cryptocurrency staking]
-tags: [technology, blockchain, staking, cryptocurrency]
+aliases:
+  - staking
+  - blockchain staking
+  - cryptocurrency staking
+tags:
+  - blockchain
+  - staking
+  - cryptocurrency
 date: 2024-07-22
 ---
 ### Summary

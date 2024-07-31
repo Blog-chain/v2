@@ -1,8 +1,12 @@
 ---
 title: Smart Contract
 description: 블록체인에서 스마트 계약의 개념, 구조, 및 역할을 다룹니다.
-aliases: [smart contract, blockchain smart contract]
-tags: [technology, blockchain, smart contract]
+aliases:
+  - smart contract
+  - blockchain smart contract
+tags:
+  - blockchain
+  - contract
 date: 2024-07-22
 ---
 ### Summary

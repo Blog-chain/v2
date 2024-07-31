@@ -1,8 +1,12 @@
 ---
 title: Mint
 description: 암호화폐 네트워크에서 민팅(Minting)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [mint, cryptocurrency mint]
-tags: [technology, cryptocurrency, minting]
+aliases:
+  - mint
+  - cryptocurrency mint
+tags:
+  - cryptocurrency
+  - minting
 date: 2024-07-22
 ---
 ### Summary

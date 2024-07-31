@@ -1,8 +1,10 @@
 ---
 title: Volatility
 description: 변동성의 개념, 측정 방법, 및 중요성을 다룹니다.
-aliases: [volatility, financial volatility]
-tags: [finance, volatility, 시장 변동성]
+aliases:
+  - financial volatility
+tags:
+  - finance
 date: 2024-07-22
 ---
 # Summary
