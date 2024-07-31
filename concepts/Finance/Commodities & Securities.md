@@ -5,10 +5,7 @@ aliases: [commodities and securities, 상품 및 증권]
 tags: [finance, commodities, securities]
 date: 2024-07-22
 ---
-
-## Commodities & Securities
-
-### Summary
+# Summary
 
 `Commodities & Securities`는 상품 및 증권을 의미하며, 금융 시장에서 중요한 역할을 합니다.
 

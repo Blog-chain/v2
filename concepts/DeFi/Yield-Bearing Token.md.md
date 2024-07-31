@@ -5,9 +5,7 @@ aliases: [yield-bearing token, 수익 발생 토큰]
 tags: [finance, yield-bearing token, defi]
 date: 2024-07-22
 ---
-
-## Yield-Bearing Token
-### Summary
+# Summary
 `Yield-Bearing Token`은 자산을 예치하고 그 대가로 이자를 받을 수 있는 토큰을 의미합니다.
 
 ### Description

@@ -5,10 +5,7 @@ aliases: [state channel, blockchain state channel, layer2 state channel]
 tags: [technology, blockchain, state channel, layer2]
 date: 2024-07-22
 ---
-
-## State Channel
-
-### Summary
+# Summary
 
 `State Channel`은 블록체인 네트워크에서 트랜잭션을 오프체인에서 처리하여 확장성을 향상시키는 Layer2 솔루션입니다.
 

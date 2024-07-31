@@ -5,9 +5,6 @@ aliases: [staking, blockchain staking, cryptocurrency staking]
 tags: [technology, blockchain, staking, cryptocurrency]
 date: 2024-07-22
 ---
-
-## Staking
-
 ### Summary
 
 `Staking`은 블록체인 네트워크에서 사용자가 자신의 암호화폐를 잠그고 네트워크 운영에 참여하여 보상을 받는 과정입니다.
@@ -36,9 +33,6 @@ Ethereum의 스테이킹은 네트워크의 보안을 유지하고, 합의를 �
 
 ### References
 
-- [Staking 설명](<https://en.wikipedia.org/wiki/Staking_(cryptocurrency)>)
-- [Staking의 작동 원리](https://example.org/staking-explanation)
-- [Bitcoin의 Staking](https://bitcoin.org/staking)
 - [Ethereum의 Staking](https://ethereum.org/staking)
 
 ### Related Keywords

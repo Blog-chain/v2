@@ -5,10 +5,7 @@ aliases: [dencun upgrade, ethereum dencun upgrade, dencun hard fork]
 tags: [technology, blockchain, ethereum, upgrade]
 date: 2024-07-22
 ---
-
-## Dencun Upgrade
-
-### Summary
+# Summary
 
 `Dencun Upgrade`는 이더리움 네트워크의 주요 업그레이드를 의미합니다.
 

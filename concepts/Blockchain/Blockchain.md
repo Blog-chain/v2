@@ -5,9 +5,6 @@ aliases: [blockchain, distributed ledger, decentralized ledger]
 tags: [technology, blockchain, distributed systems]
 date: 2024-07-22
 ---
-
-## Blockchain
-
 ### Summary
 
 `Blockchain`은 탈중앙화를 지향하는 공개 분산 원장 시스템입니다. 이는 트랜잭션 데이터가 블록 단위로 기록되고, 이 블록들이 체인 형태로 연결되어 있는 구조를 가지고 있습니다.
@@ -32,10 +29,8 @@ date: 2024-07-22
 
 ### References
 
-- [Blockchain 기술 개요](https://m.upbitcare.com/academy/education/blockchain/64)
-- [블록체인의 탈중앙화 원리](https://builtin.com/blockchain)
-- [블록체인 트랜잭션 검증](https://www.blockchain-council.org/blockchain/how-blockchain-transaction-works/)
-- [블록체인의 응용 사례](https://www.ibm.com/blockchain/use-cases)
+- [Understanding Blockchain Technology](https://builtin.com/blockchain)
+- [IBM 블록체인의 응용 사례](https://www.ibm.com/blockchain/use-cases)
 
 ### Related Keywords
 

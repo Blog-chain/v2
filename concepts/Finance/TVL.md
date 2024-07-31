@@ -5,10 +5,7 @@ aliases: [tvl, total value locked]
 tags: [finance, tvl, defi]
 date: 2024-07-22
 ---
-
-## TVL
-
-### Summary
+# Summary
 
 `TVL (Total Value Locked)`는 DeFi 프로토콜에 잠긴 총 자산 가치를 의미합니다.
 

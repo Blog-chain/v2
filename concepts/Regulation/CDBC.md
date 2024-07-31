@@ -5,10 +5,7 @@ aliases: [cbdcs, central bank digital currencies, cbdc]
 tags: [technology, finance, cbdcs, blockchain]
 date: 2024-07-22
 ---
-
-## CBDCs
-
-### Summary
+# Summary
 
 `CBDCs (Central Bank Digital Currencies)`는 중앙은행에서 발행하는 디지털 통화를 의미합니다.
 

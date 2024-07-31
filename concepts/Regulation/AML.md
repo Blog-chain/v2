@@ -5,10 +5,7 @@ aliases: [aml, anti-money laundering]
 tags: [regulation, law, compliance]
 date: 2024-07-22
 ---
-
-## AML (Anti-Money Laundering)
-
-### Summary
+# Summary
 
 `AML (Anti-Money Laundering)`은 자금 세탁 방지를 위한 규제 및 법률 체계입니다.
 

@@ -5,9 +5,6 @@ aliases: [block, blockchain block]
 tags: [technology, blockchain, block]
 date: 2024-07-22
 ---
-
-## Block
-
 ### Summary
 
 [https://bitcoinwiki.org/wiki/block](https://bitcoinwiki.org/wiki/block)
@@ -70,6 +67,7 @@ Blocks are batches of transactions with a hash of the previous block in the chai
 
 ### References
 
+- [블록의 구조](https://m.upbitcare.com/academy/education/blockchain/64)
 - [블록의 개념과 역할](https://bitcoinwiki.org/wiki/block)
 - [Ethereum 블록의 구조](https://ethereum.org/en/developers/docs/blocks/)
 - [블록 헤더의 구성 요소](https://www.investopedia.com/terms/b/block-bitcoin-block.asp)

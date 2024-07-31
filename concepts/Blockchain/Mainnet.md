@@ -5,9 +5,6 @@ aliases: [mainnet, blockchain mainnet]
 tags: [technology, blockchain, mainnet]
 date: 2024-07-22
 ---
-
-## Mainnet
-
 ### Summary
 
 `Mainnet`은 블록체인 네트워크의 실제 운영 환경을 의미하며, 모든 트랜잭션이 실제 자산과 연계되어 처리되는 네트워크입니다.

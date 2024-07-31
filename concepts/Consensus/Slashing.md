@@ -5,9 +5,6 @@ aliases: [slashing, blockchain slashing, validator slashing]
 tags: [technology, blockchain, slashing, consensus]
 date: 2024-07-22
 ---
-
-## Slashing
-
 ### Summary
 
 `Slashing`은 블록체인 네트워크에서 검증자가 규칙을 위반할 경우 일정량의 스테이킹된 자산을 몰수하는 메커니즘입니다.

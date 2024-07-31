@@ -5,9 +5,6 @@ aliases: [oracle, 오라클]
 tags: [finance, oracle, defi]
 date: 2024-07-22
 ---
-
-## Oracle
-
 ### Summary
 
 `Oracle`은 스마트 계약이 외부 데이터를 접근하고 사용할 수 있도록 하는 시스템을 의미합니다.

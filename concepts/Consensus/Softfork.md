@@ -5,12 +5,9 @@ aliases: [soft fork, blockchain soft fork]
 tags: [technology, blockchain, soft fork, consensus]
 date: 2024-07-22
 ---
-
-## Soft Fork
-
 ### Summary
 
-`Soft Fork`는 블록체인 네트워크에서 기존 블록체인과 호환되는 새로운 규칙으로 업데이트되는 과정을 의미합니다.
+`Soft Fork`는 블록체인 네트워크에서 기존 블록체인과 호환되는 새로운 규칙으로 업데이트 되는 과정을 의미합니다.
 
 ### Description
 
@@ -27,7 +24,6 @@ date: 2024-07-22
 
 ### References
 
-- [Soft Fork 설명](https://en.wikipedia.org/wiki/Soft-Fork)
 - [Soft Fork의 작동 원리](https://ethereum.org/en/glossary/#soft-fork)
 
 ### Related Keywords

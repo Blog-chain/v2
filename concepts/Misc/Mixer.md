@@ -1,4 +1,12 @@
-# Mixer
+---
+title: Mixer
+description: 
+aliases: 
+tags: 
+date: 2024-07-31
+---
+
+# Description
 
 (a Bitcoin mixer, a cryptocurrency tumbler) - a tool that allows users to mix their cryptocurrency funds with those of other users to obscure the source and destination of the funds - a coin mixer takes a user's **cryptocurrency** and mixes it with the cryptocurrency of other users. It creates a jumbled and untraceable pool of funds. This process aims to enhance the anonymity and privacy of the user's cryptocurrency transactions
 

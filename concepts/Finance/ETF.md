@@ -5,10 +5,7 @@ aliases: [etf, 상장지수펀드]
 tags: [finance, etf, investment]
 date: 2024-07-22
 ---
-
-## ETF
-
-### Summary
+# Summary
 
 `ETF (Exchange-Traded Fund)`는 주식 거래소에서 거래되는 투자 펀드를 의미합니다.
 

@@ -5,10 +5,7 @@ aliases: [opcode, evm opcode, ethereum opcode]
 tags: [technology, blockchain, ethereum, opcode]
 date: 2024-07-22
 ---
-
-## Opcode
-
-### Summary
+# Summary
 
 `EVM opcode`는 이더리움 네트워크에서 스마트 계약을 실행하기 위한 기계어 명령어입니다.
 

@@ -5,9 +5,6 @@ aliases: [ltv, loan to value ratio]
 tags: [finance, ltv, lending]
 date: 2024-07-22
 ---
-
-## LTV
-
 ### Summary
 
 `LTV (Loan-to-Value Ratio)`는 대출 금액이 담보 자산의 가치에 대해 차지하는 비율을 의미합니다.

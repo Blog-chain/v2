@@ -5,9 +5,6 @@ aliases: [hard fork, blockchain hard fork]
 tags: [technology, blockchain, hard fork, consensus]
 date: 2024-07-22
 ---
-
-## Hard Fork
-
 ### Summary
 
 `Hard Fork`는 블록체인 네트워크에서 기존 블록체인과 호환되지 않는 새로운 규칙으로 업데이트되는 과정을 의미합니다.

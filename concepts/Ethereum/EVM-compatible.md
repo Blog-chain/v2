@@ -5,10 +5,7 @@ aliases: [evm-compatible, ethereum evm compatible]
 tags: [technology, blockchain, ethereum, evm]
 date: 2024-07-22
 ---
-
-## EVM-compatible
-
-### Summary
+# Summary
 
 `EVM-compatible`은 이더리움 가상 머신(EVM)과 호환되는 네트워크나 스마트 계약을 의미합니다.
 

@@ -5,14 +5,11 @@ aliases: [bitcoin, BTC, cryptocurrency]
 tags: [technology, blockchain, bitcoin, cryptocurrency]
 date: 2024-07-22
 ---
-
-## Bitcoin
-
-### Summary
+# Summary
 
 `Bitcoin`은 2008년에 Satoshi Nakamoto에 의해 발명된 첫 번째 분산형 디지털 화폐입니다. 이는 탈중앙화된 블록체인 기술을 기반으로 하며, 작업 증명(Proof of Work) 합의 메커니즘을 사용합니다.
 
-### Description
+# Description
 
 `Bitcoin`은 2008년에 Satoshi Nakamoto라는 가명을 사용하는 개인 또는 그룹에 의해 발명된 첫 번째 분산형 디지털 화폐입니다. 비트코인은 중앙 권한 없이 P2P 네트워크를 통해 거래가 이루어지며, 이를 통해 탈중앙화된 금융 시스템을 제공합니다.
 
@@ -38,15 +35,15 @@ Bitcoin의 주요 기술적 특징은 다음과 같습니다:
 - **투자 자산**: 비트코인은 가격 변동성이 크지만, 많은 투자자들이 이를 디지털 금으로 간주하고 장기 투자 자산으로 보유합니다.
 - **국경 없는 송금**: 비트코인은 국제 송금을 빠르고 저렴하게 수행할 수 있는 수단으로 사용됩니다.
 
-### References
+# References
 
 - [비트코인의 블록 개념](https://bitcoinwiki.org/wiki/block)
 - [비트코인 블록 타임스탬프](https://en.bitcoin.it/wiki/Block_timestamp)
 - [작업 증명과 비트코인](https://developer.bitcoin.org/glossary.html#term-Proof-of-work)
 - [비트코인 채굴 방법](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
-- [이중 지불 방지](https://developer.bitcoin.org/devguide/transactions.html#double-spending)
+- [devguide/transactions](https://developer.bitcoin.org/devguide/transactions.html#double-spending)
 
-### Related Keywords
+# Related Keywords
 
 - [[Blockchain]]
 - [[Proof of Work]]

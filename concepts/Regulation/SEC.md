@@ -5,10 +5,7 @@ aliases: [sec, securities and exchange commission]
 tags: [regulation, law, compliance]
 date: 2024-07-22
 ---
-
-## SEC (Securities and Exchange Commission)
-
-### Summary
+# Summary
 
 `SEC (Securities and Exchange Commission)`는 미국의 증권 거래 위원회를 의미합니다.
 

@@ -5,9 +5,6 @@ aliases: [ethereum, ETH, cryptocurrency]
 tags: [technology, blockchain, ethereum, cryptocurrency]
 date: 2024-07-22
 ---
-
-## Ethereum
-
 ### Summary
 
 `Ethereum`은 Vitalik Buterin이 2015년에 출시한 분산형 블록체인 플랫폼으로, 스마트 계약과 탈중앙화 애플리케이션(DApps)을 실행할 수 있습니다.
@@ -50,10 +47,10 @@ Ethereum의 미래는 다음과 같은 발전 방향을 가지고 있습니다:
 
 ### References
 
-- [Introduction to Ethereum](https://ethereum.org/en/what-is-ethereum/)
+- [What is Ethereum](https://ethereum.org/en/what-is-ethereum/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-- [Understanding Smart Contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
-- [Ethereum 2.0 Upgrade](https://ethereum.org/en/eth2/)
+- [Introduction to smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [Ethereum roadmap](https://ethereum.org/en/eth2/)
 
 ### Related Keywords
 

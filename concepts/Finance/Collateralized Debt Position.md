@@ -5,10 +5,7 @@ aliases: [collateralized debt position, cdp, 담보 부채 포지션]
 tags: [finance, collateralized debt position, 파생상품]
 date: 2024-07-22
 ---
-
-## Collateralized Debt Position
-
-### Summary
+# Summary
 
 `Collateralized Debt Position`은 담보 자산을 사용하여 부채를 발행하는 포지션을 의미합니다.
 

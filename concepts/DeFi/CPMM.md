@@ -5,9 +5,6 @@ aliases: [cpmm, constant product market maker]
 tags: [finance, cpmm, exchange]
 date: 2024-07-22
 ---
-
-## CPMM
-
 ### Summary
 
 `CPMM (Constant Product Market Maker)`는 일정한 곱셈 시장 메이커를 의미합니다.

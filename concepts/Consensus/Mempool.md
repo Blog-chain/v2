@@ -5,9 +5,6 @@ aliases: [mempool, blockchain mempool, transaction pool]
 tags: [technology, blockchain, mempool, transactions]
 date: 2024-07-22
 ---
-
-## Mempool
-
 ### Summary
 
 `Mempool`은 블록체인 네트워크에서 아직 블록에 포함되지 않은 대기 중인 트랜잭션을 저장하는 공간입니다.

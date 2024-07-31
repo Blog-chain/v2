@@ -5,9 +5,6 @@ aliases: [liquid staking, 유동적 스테이킹]
 tags: [finance, liquid staking, defi]
 date: 2024-07-22
 ---
-
-## Liquid Staking
-
 ### Summary
 
 `Liquid Staking`은 자산을 스테이킹하고 그 대가로 유동성을 제공받을 수 있는 시스템을 의미합니다.

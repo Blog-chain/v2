@@ -5,9 +5,6 @@ aliases: [nonce, blockchain nonce, cryptographic nonce]
 tags: [technology, blockchain, nonce, cryptography]
 date: 2024-07-22
 ---
-
-## Nonce
-
 ### Summary
 
 `Nonce`는 블록체인 네트워크에서 블록 헤더의 해시를 계산할 때 사용되는 임의의 숫자 값입니다.

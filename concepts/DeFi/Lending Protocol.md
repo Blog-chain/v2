@@ -5,9 +5,6 @@ aliases: [lending protocol, 대출 프로토콜]
 tags: [finance, lending, defi]
 date: 2024-07-22
 ---
-
-## Lending Protocol
-
 ### Summary
 
 `Lending Protocol`은 탈중앙화된 금융(DeFi)에서 자산을 대출하고 이자를 받을 수 있는 시스템을 의미합니다.

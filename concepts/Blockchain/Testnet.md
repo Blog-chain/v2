@@ -5,9 +5,6 @@ aliases: [testnet, blockchain testnet]
 tags: [technology, blockchain, testnet]
 date: 2024-07-22
 ---
-
-## Testnet
-
 ### Summary
 
 `Testnet`은 블록체인 네트워크의 테스트 환경으로, 실제 자산이 아닌 테스트 자산을 사용하여 새로운 기능과 스마트 계약을 시험하는 데 사용됩니다.

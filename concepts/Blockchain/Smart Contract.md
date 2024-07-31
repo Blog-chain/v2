@@ -5,9 +5,6 @@ aliases: [smart contract, blockchain smart contract]
 tags: [technology, blockchain, smart contract]
 date: 2024-07-22
 ---
-
-## Smart Contract
-
 ### Summary
 
 `Smart Contract`는 블록체인에서 자동으로 실행되는 계약 조건을 포함하는 코드입니다. 이는 트랜잭션을 자동으로 처리하고 검증하는 데 사용됩니다.

@@ -5,9 +5,6 @@ aliases: [timestamp, blockchain timestamp]
 tags: [technology, blockchain, timestamp]
 date: 2024-07-22
 ---
-
-## Timestamp
-
 ### Summary
 
 `Timestamp`는 블록체인에서 트랜잭션이 발생한 시간과 블록이 생성된 시간을 기록하여 블록의 순서와 무결성을 보장합니다.

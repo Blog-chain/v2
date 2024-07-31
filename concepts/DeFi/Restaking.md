@@ -5,9 +5,6 @@ aliases: [restaking, 재스테이킹]
 tags: [finance, restaking, defi]
 date: 2024-07-22
 ---
-
-## Restaking
-
 ### Summary
 
 `Restaking`은 이미 스테이킹된 자산을 다시 스테이킹하여 추가적인 보상을 받을 수 있는 시스템을 의미합니다.

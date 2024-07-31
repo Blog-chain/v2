@@ -6,9 +6,7 @@ tags: [technology, blockchain, ethereum, ca]
 date: 2024-07-22
 ---
 
-## CA
-
-### Summary
+# Summary
 
 `CA (Contract Account)`는 스마트 계약을 통해 관리되는 이더리움 계정을 의미합니다.
 

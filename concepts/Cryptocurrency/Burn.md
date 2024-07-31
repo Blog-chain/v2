@@ -5,9 +5,6 @@ aliases: [burn, cryptocurrency burn]
 tags: [technology, cryptocurrency, burn]
 date: 2024-07-22
 ---
-
-## Burn
-
 ### Summary
 
 `Burn`은 암호화폐 토큰을 영구적으로 제거하는 과정을 의미합니다.

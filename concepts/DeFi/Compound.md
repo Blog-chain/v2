@@ -5,9 +5,6 @@ aliases: [compound, 컴파운드]
 tags: [finance, compound, defi]
 date: 2024-07-22
 ---
-
-## Compound
-
 ### Summary
 
 `Compound`는 탈중앙화된 금융(DeFi) 프로토콜로, 사용자들이 자산을 예치하고 이자를 받을 수 있는 플랫폼입니다.

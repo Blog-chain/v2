@@ -5,10 +5,7 @@ aliases: [erc-20, ethereum erc-20, erc20 standard]
 tags: [technology, blockchain, ethereum, erc-20]
 date: 2024-07-22
 ---
-
-## ERC-20
-
-### Summary
+# Summary
 
 `ERC-20`는 이더리움 네트워크에서 토큰을 표준화하는 데 사용되는 프로토콜입니다.
 

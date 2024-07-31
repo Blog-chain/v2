@@ -5,9 +5,6 @@ aliases: [liquidity pool, 유동성 풀]
 tags: [finance, liquidity pool, exchange]
 date: 2024-07-22
 ---
-
-## Liquidity Pool
-
 ### Summary
 
 `Liquidity Pool`은 탈중앙화된 거래소(DEX)에서 거래를 지원하기 위해 사용되는 자산의 풀을 의미합니다.

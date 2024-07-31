@@ -5,10 +5,7 @@ aliases: [cex, centralized exchange]
 tags: [finance, cex, exchange]
 date: 2024-07-22
 ---
-
-## CEX
-
-### Summary
+# Summary
 
 `CEX (Centralized Exchange)`는 중앙화된 암호화폐 거래소를 의미합니다.
 

@@ -5,9 +5,6 @@ aliases: [node, blockchain node]
 tags: [technology, blockchain, node]
 date: 2024-07-22
 ---
-
-## Node
-
 ### Summary
 
 `Node`는 블록체인 네트워크에서 트랜잭션을 검증하고 새로운 블록을 생성하며, 네트워크의 무결성과 보안을 유지하는 역할을 합니다.

@@ -5,9 +5,6 @@ aliases: [dex, decentralized exchange]
 tags: [finance, dex, exchange]
 date: 2024-07-22
 ---
-
-## DEX
-
 ### Summary
 
 `DEX (Decentralized Exchange)`는 탈중앙화된 암호화폐 거래소를 의미합니다.

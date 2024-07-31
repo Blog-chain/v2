@@ -5,9 +5,6 @@ aliases: [token, cryptocurrency token]
 tags: [technology, cryptocurrency, token]
 date: 2024-07-22
 ---
-
-## Token
-
 ### Summary
 
 `Token`은 블록체인 네트워크에서 특정 자산이나 유틸리티를 나타내는 암호화폐를 의미합니다.

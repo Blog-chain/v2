@@ -5,9 +5,6 @@ aliases: [mining, blockchain mining, cryptocurrency mining]
 tags: [technology, blockchain, mining, cryptocurrency]
 date: 2024-07-22
 ---
-
-## Mining
-
 ### Summary
 
 `Mining`은 블록체인 네트워크에서 새로운 블록을 생성하고 검증하는 과정입니다.

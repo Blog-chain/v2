@@ -5,10 +5,7 @@ aliases: [volatility, financial volatility]
 tags: [finance, volatility, 시장 변동성]
 date: 2024-07-22
 ---
-
-## Volatility
-
-### Summary
+# Summary
 
 `Volatility`는 자산 가격의 변동성을 나타내는 지표를 의미합니다.
 

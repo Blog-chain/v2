@@ -5,9 +5,6 @@ aliases: [liquidity mining, 유동성 채굴]
 tags: [defi, finance, liquidity mining]
 date: 2024-07-22
 ---
-
-## Liquidity Mining
-
 ### Summary
 
 `Liquidity Mining`은 DeFi에서 자산을 유동성 풀에 제공하고, 그 대가로 보상 토큰을 받는 과정을 의미합니다.

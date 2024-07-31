@@ -5,7 +5,6 @@ aliases: [amm, automated market maker]
 tags: [finance, amm, exchange]
 date: 2024-07-22
 ---
-
 # AMM (Automated Market Maker)
 
 - DeFi 혁신 사례 중 가장 영향력 있는 기술 중 하나는 자율적으로 기능하는 마켓 메이커(Automated Market Maker, AMM) 방식의 탈중앙화 거래소(DEX) 입니다. AMM 덕분에 온체인에서 다양한 토큰에 대한 유동성이 제공되어 DEX에서의 거래가 가능해졌습니다.

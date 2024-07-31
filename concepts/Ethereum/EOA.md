@@ -5,10 +5,7 @@ aliases: [eoa, externally owned account, ethereum eoa]
 tags: [technology, blockchain, ethereum, eoa]
 date: 2024-07-22
 ---
-
-## EOA
-
-### Summary
+# Summary
 
 `EOA (Externally Owned Account)`는 개인 키로 제어되는 이더리움 계정을 의미합니다.
 

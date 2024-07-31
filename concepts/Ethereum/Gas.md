@@ -5,10 +5,7 @@ aliases: [gas, ethereum gas]
 tags: [technology, blockchain, ethereum, gas]
 date: 2024-07-22
 ---
-
-## Gas
-
-### Summary
+# Summary
 
 `Gas`는 이더리움 네트워크에서 트랜잭션을 처리하기 위해 지불해야 하는 수수료를 의미합니다.
 

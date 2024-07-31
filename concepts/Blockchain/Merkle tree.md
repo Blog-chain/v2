@@ -5,9 +5,6 @@ aliases: [merkle tree, merkle root]
 tags: [technology, blockchain, merkle tree]
 date: 2024-07-22
 ---
-
-## Merkle Tree
-
 ### Summary
 
 `Merkle Tree`는 블록체인에서 트랜잭션의 무결성을 검증하고 요약하는 해시 트리 구조입니다. 이는 트랜잭션 데이터를 효율적으로 검증하고 보관하는 데 사용됩니다.

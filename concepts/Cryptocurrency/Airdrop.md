@@ -5,9 +5,6 @@ aliases: [airdrop, cryptocurrency airdrop]
 tags: [technology, cryptocurrency, airdrop]
 date: 2024-07-22
 ---
-
-## Airdrop
-
 ### Summary
 
 `Airdrop`은 특정 조건을 충족한 사용자들에게 무료로 암호화폐 토큰을 배포하는 과정을 의미합니다.
