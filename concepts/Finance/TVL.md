@@ -1,8 +1,10 @@
 ---
 title: TVL
 description: 총 가치 잠금(TVL)의 개념, 계산 방법, 및 중요성을 다룹니다.
-aliases: [tvl, total value locked]
-tags: [finance, tvl, defi]
+aliases:
+  - total value locked
+tags:
+  - defi
 date: 2024-07-22
 ---
 # Summary
@@ -33,7 +35,6 @@ date: 2024-07-22
 
 ### Related Keywords
 
-- [[Finance]]
 - [[DeFi]]
 - [[Liquidity]]
 - [[Growth]]

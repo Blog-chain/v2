@@ -1,8 +1,10 @@
 ---
 title: Oracle
 description: 오라클의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [oracle, 오라클]
-tags: [finance, oracle, defi]
+aliases:
+  - 오라클
+tags:
+  - blockchain
 date: 2024-07-22
 ---
 ### Summary

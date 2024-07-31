@@ -1,11 +1,13 @@
 ---
 title: DeFi
 description: 탈중앙화 금융(DeFi)의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [defi, decentralized finance]
-tags: [finance, defi, blockchain]
+aliases:
+  - decentralized finance
+tags:
+  - defi
+  - blockchain
 date: 2024-07-22
 ---
-
 ### Summary
 
 `DeFi (Decentralized Finance)`는 블록체인 기술을 기반으로 한 탈중앙화 금융 시스템을 의미합니다.
@@ -51,6 +53,7 @@ date: 2024-07-22
 
 ### Related Keywords
 
+- [[Web3]]
 - [[Finance]]
 - [[Blockchain]]
 - [[Smart Contracts]]

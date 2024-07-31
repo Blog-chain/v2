@@ -1,8 +1,12 @@
 ---
 title: Yield-Bearing Token
 description: 수익 발생 토큰의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [yield-bearing token, 수익 발생 토큰]
-tags: [finance, yield-bearing token, defi]
+aliases:
+  - 수익 발생 토큰
+tags:
+  - yield-bearing
+  - token
+  - defi
 date: 2024-07-22
 ---
 # Summary

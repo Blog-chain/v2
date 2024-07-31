@@ -1,8 +1,14 @@
 ---
 title: Zero Knowledge Proof
 description: 영지식 증명의 개념, 작동 원리, 및 기술적 구현을 다룹니다.
-aliases: [zero knowledge proof, 영지식 증명]
-tags: [cryptography, zero knowledge proof, zk]
+aliases:
+  - 영지식 증명
+  - ZK Proof
+  - ZKP
+tags:
+  - cryptography
+  - proof
+  - zk
 date: 2024-07-22
 ---
 ### Summary

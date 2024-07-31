@@ -1,8 +1,14 @@
 ---
 title: Restaking
 description: 재스테이킹의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [restaking, 재스테이킹]
-tags: [finance, restaking, defi]
+aliases:
+  - 재스테이킹
+  - restake
+  - re-stake
+tags:
+  - defi
+  - staking
+  - stake
 date: 2024-07-22
 ---
 ### Summary
