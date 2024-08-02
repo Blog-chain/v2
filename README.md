@@ -37,24 +37,28 @@ sh <(curl -s "https://gist.githubusercontent.com/ooMia/afbae4f3249609e0bf17e4b6c
 ## Contributions
 
 ### 🦝 @Null0RM
+
 - [[Block]]
 - [[Gasper]]
 - [[concepts/Consensus/PoS]]
 
 ### 🌼 @pluto1011
+
 - OpenZeppelin
   - type information
 - ERC-20
 - ERC-2771
 
 ### 🐝 @ooMia
-- 
+
+-
 
 <br>
 
 ## 1. 기술 스택
 
 ### Quartz
+
 GitHub Pages로의 정적 사이트 생성 지원
 
 ## 2. 브랜치 전략
@@ -64,8 +68,6 @@ GitHub Pages로의 정적 사이트 생성 지원
 
 <br>
 
-
-
 ## 4. 프로젝트 구조
 
 - Windows CMD에서 `tree /F | clip` 명령어 사용
@@ -74,6 +76,7 @@ GitHub Pages로의 정적 사이트 생성 지원
 <br>
 
 ## 5. 개발 정보
+
 - 8월 중순 종료 예정
 - Obsidian 기반, Quartz 정적 사이트 배포
 - 마크다운 다루기 어려우면 `Notion` 사용해서 복붙하기
