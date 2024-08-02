@@ -1,11 +1,9 @@
-## https://ethereum.org/en/web3/
-
+---
 title: Web3
 description: Web3의 개념, 작동 원리, 및 기술적 구현을 다룹니다.
 aliases: [web3, web 3.0]
 tags: [misc, web3, blockchain]
 date: 2024-07-22
-
 ---
 
 ## Web3
@@ -36,6 +34,7 @@ https://aws.amazon.com/ko/what-is/web3/?nc1=h_ls
 - [Web3 설명](https://en.wikipedia.org/wiki/Web3)
 - [Web3의 작동 원리](https://www.investopedia.com/terms/w/web3.asp)
 - [Gemini의 Web3 설명](https://www.gemini.com/cryptopedia/search?query=web3)
+-  https://ethereum.org/en/web3/
 
 ### Related Keywords
 

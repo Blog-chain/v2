@@ -1,3 +1,10 @@
+---
+title: Ethernaut
+description: Ethernaut
+aliases:
+tags:
+---
+
 https://ethernaut.openzeppelin.com/
 
 https://github.com/OpenZeppelin/ethernaut
