@@ -1,12 +1,16 @@
 ---
 title: Blockchain
 description: 블록체인 기술의 기본 개념과 구조, 그리고 다양한 응용 사례를 다룹니다.
-aliases: [blockchain, distributed ledger, decentralized ledger]
-tags: [technology, blockchain, distributed systems]
+aliases:
+  - blockchain
+  - distributed ledger
+  - decentralized ledger
+tags:
+  - blockchain
+  - distributed
+  - systems
 date: 2024-07-22
 ---
-
-## Blockchain
 
 ### Summary
 
@@ -32,10 +36,8 @@ date: 2024-07-22
 
 ### References
 
-- [Blockchain 기술 개요](https://m.upbitcare.com/academy/education/blockchain/64)
-- [블록체인의 탈중앙화 원리](https://builtin.com/blockchain)
-- [블록체인 트랜잭션 검증](https://www.blockchain-council.org/blockchain/how-blockchain-transaction-works/)
-- [블록체인의 응용 사례](https://www.ibm.com/blockchain/use-cases)
+- [Understanding Blockchain Technology](https://builtin.com/blockchain)
+- [IBM 블록체인의 응용 사례](https://www.ibm.com/blockchain/use-cases)
 
 ### Related Keywords
 

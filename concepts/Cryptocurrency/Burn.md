@@ -1,12 +1,14 @@
 ---
 title: Burn
 description: 암호화폐 네트워크에서 토큰 소각(Burn)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [burn, cryptocurrency burn]
-tags: [technology, cryptocurrency, burn]
+aliases:
+  - burn
+  - cryptocurrency burn
+tags:
+  - cryptocurrency
+  - burn
 date: 2024-07-22
 ---
-
-## Burn
 
 ### Summary
 

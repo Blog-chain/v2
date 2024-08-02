@@ -6,8 +6,6 @@ tags: [finance, csmm, exchange]
 date: 2024-07-22
 ---
 
-## CSMM
-
 ### Summary
 
 `CSMM (Centralized Market Maker)`는 중앙화된 마켓 메이커를 의미합니다.

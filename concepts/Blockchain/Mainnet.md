@@ -1,12 +1,14 @@
 ---
 title: Mainnet
 description: 블록체인에서 메인넷(Mainnet)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [mainnet, blockchain mainnet]
-tags: [technology, blockchain, mainnet]
+aliases:
+  - mainnet
+  - blockchain mainnet
+tags:
+  - blockchain
+  - mainnet
 date: 2024-07-22
 ---
-
-## Mainnet
 
 ### Summary
 

@@ -6,9 +6,7 @@ tags: [regulation, law, compliance]
 date: 2024-07-22
 ---
 
-## KYC (Know Your Customer)
-
-### Summary
+# Summary
 
 `KYC (Know Your Customer)`은 금융 기관에서 고객의 신원을 확인하고, 자금 세탁 및 테러 자금 조달을 방지하는 절차입니다.
 

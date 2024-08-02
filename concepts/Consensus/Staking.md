@@ -1,12 +1,16 @@
 ---
 title: Staking
 description: 블록체인 네트워크에서 스테이킹(Staking)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [staking, blockchain staking, cryptocurrency staking]
-tags: [technology, blockchain, staking, cryptocurrency]
+aliases:
+  - staking
+  - blockchain staking
+  - cryptocurrency staking
+tags:
+  - blockchain
+  - staking
+  - cryptocurrency
 date: 2024-07-22
 ---
-
-## Staking
 
 ### Summary
 
@@ -36,14 +40,11 @@ Ethereum의 스테이킹은 네트워크의 보안을 유지하고, 합의를 �
 
 ### References
 
-- [Staking 설명](<https://en.wikipedia.org/wiki/Staking_(cryptocurrency)>)
-- [Staking의 작동 원리](https://example.org/staking-explanation)
-- [Bitcoin의 Staking](https://bitcoin.org/staking)
 - [Ethereum의 Staking](https://ethereum.org/staking)
 
 ### Related Keywords
 
-- [[Proof of Stake]]
+- [[PoS]]
 - [[Blockchain]]
 - [[Security]]
 - [[Cryptocurrency]]

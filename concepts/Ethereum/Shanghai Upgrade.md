@@ -1,14 +1,17 @@
 ---
 title: Shanghai Upgrade
 description: 이더리움 네트워크의 상하이 업그레이드 개념, 역할, 및 중요성을 다룹니다.
-aliases: [shanghai upgrade, ethereum shanghai upgrade, shanghai hard fork]
-tags: [technology, blockchain, ethereum, upgrade]
+aliases:
+  - shanghai upgrade
+  - ethereum shanghai upgrade
+  - shanghai hard fork
+tags:
+  - ethereum
+  - upgrade
 date: 2024-07-22
 ---
 
-## Shanghai Upgrade
-
-### Summary
+# Summary
 
 `Shanghai Upgrade`는 이더리움 네트워크의 주요 업그레이드를 의미합니다.
 

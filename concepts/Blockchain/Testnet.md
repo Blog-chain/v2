@@ -1,12 +1,14 @@
 ---
 title: Testnet
 description: 블록체인에서 테스트넷(Testnet)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [testnet, blockchain testnet]
-tags: [technology, blockchain, testnet]
+aliases:
+  - testnet
+  - blockchain testnet
+tags:
+  - blockchain
+  - testnet
 date: 2024-07-22
 ---
-
-## Testnet
 
 ### Summary
 

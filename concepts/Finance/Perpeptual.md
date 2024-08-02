@@ -6,9 +6,7 @@ tags: [finance, perpetual, 영구 선물 계약]
 date: 2024-07-22
 ---
 
-## Perpetual
-
-### Summary
+# Summary
 
 `Perpetual`은 만기일이 없는 선물 계약을 의미합니다.
 

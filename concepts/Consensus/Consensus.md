@@ -1,18 +1,20 @@
 ---
 title: Consensus
 description: 블록체인 네트워크에서 합의 메커니즘의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [consensus, blockchain consensus]
-tags: [technology, blockchain, consensus]
+aliases:
+  - consensus
+  - blockchain consensus
+tags:
+  - blockchain
+  - consensus
 date: 2024-07-22
 ---
 
-## Consensus
-
-### Summary
+# Summary
 
 `Consensus`는 블록체인 네트워크에서 모든 참여 노드가 동일한 상태를 공유하고 동의하는 과정을 의미합니다. 이는 네트워크의 무결성과 신뢰성을 유지하는 데 필수적입니다.
 
-### Description
+# Description
 
 `Consensus`는 블록체인 네트워크에서 모든 참여 노드가 동일한 상태를 공유하고 동의하는 과정을 의미합니다. 이는 네트워크의 무결성과 신뢰성을 유지하는 데 필수적입니다. 블록체인 네트워크는 중앙 권한 없이 분산된 방식으로 운영되기 때문에, 합의 메커니즘을 통해 모든 트랜잭션이 검증되고 승인됩니다.
 
@@ -24,7 +26,7 @@ date: 2024-07-22
 
 합의 메커니즘은 블록체인의 핵심 요소로, 네트워크의 신뢰성과 안전성을 보장합니다. 이를 통해 블록체인은 중앙 권한 없이도 안전하게 운영될 수 있습니다.
 
-### References
+# References
 
 - [블록체인의 합의 메커니즘](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
 - [작업 증명과 지분 증명](https://www.investopedia.com/terms/c/consensus-mechanism.asp)
@@ -32,10 +34,10 @@ date: 2024-07-22
 - [Consensus 개념](https://developer.bitcoin.org/glossary.html#term-Consensus)
 - [Consensus 메커니즘](https://ethereum.org/en/glossary/#consensus)
 
-### Related Keywords
+# Related Keywords
 
-- [[Proof of Work]]
-- [[Proof of Stake]]
-- [[Delegated Proof of Stake]]
+- [[PoW]]
+- [[PoS]]
+- [[DPoS]]
 - [[Blockchain]]
 - [[Validator]]

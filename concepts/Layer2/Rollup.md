@@ -1,14 +1,18 @@
 ---
 title: Rollup
 description: 블록체인 네트워크에서 롤업(Rollup)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [rollup, blockchain rollup, layer2 rollup]
-tags: [technology, blockchain, rollup, layer2]
+aliases:
+  - rollup
+  - blockchain rollup
+  - layer2 rollup
+tags:
+  - blockchain
+  - rollup
+  - layer2
 date: 2024-07-22
 ---
 
-## Rollup
-
-### Summary
+# Summary
 
 `Rollup`는 블록체인 네트워크에서 트랜잭션을 묶어 메인 체인에 제출하여 확장성을 향상시키는 Layer2 솔루션입니다.
 

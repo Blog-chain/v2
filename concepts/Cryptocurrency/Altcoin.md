@@ -1,12 +1,14 @@
 ---
 title: Altcoin
 description: 암호화폐 네트워크에서 알트코인(Altcoin)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [altcoin, cryptocurrency altcoin]
-tags: [technology, cryptocurrency, altcoin]
+aliases:
+  - altcoin
+  - cryptocurrency altcoin
+tags:
+  - cryptocurrency
+  - altcoin
 date: 2024-07-22
 ---
-
-## Altcoin
 
 ### Summary
 

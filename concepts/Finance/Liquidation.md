@@ -6,9 +6,7 @@ tags: [finance, liquidation, 레버리지]
 date: 2024-07-22
 ---
 
-## Liquidation
-
-### Summary
+# Summary
 
 `Liquidation`은 투자자가 유지해야 할 증거금을 유지하지 못할 때 포지션을 강제로 청산하는 과정을 의미합니다.
 

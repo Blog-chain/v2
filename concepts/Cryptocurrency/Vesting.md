@@ -1,12 +1,14 @@
 ---
 title: Vesting
 description: 암호화폐 네트워크에서 베스팅(Vesting)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [vesting, cryptocurrency vesting]
-tags: [technology, cryptocurrency, vesting]
+aliases:
+  - vesting
+  - cryptocurrency vesting
+tags:
+  - cryptocurrency
+  - vesting
 date: 2024-07-22
 ---
-
-## Vesting
 
 ### Summary
 

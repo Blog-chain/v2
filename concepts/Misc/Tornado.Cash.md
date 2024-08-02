@@ -1,14 +1,17 @@
 ---
 title: Tornado.Cash
 description: Tornado.Cash의 개념, 작동 원리, 및 기술적 구현을 다룹니다.
-aliases: [tornado.cash, tornado cash]
-tags: [misc, mixer, privacy, tornado.cash]
+aliases:
+  - tornado.cash
+  - tornado cash
+tags:
+  - misc
+  - mixer
+  - privacy
 date: 2024-07-22
 ---
 
-## Tornado.Cash
-
-### Summary
+# Summary
 
 `Tornado.Cash`는 이더리움 기반의 프라이버시 강화 믹서입니다.
 

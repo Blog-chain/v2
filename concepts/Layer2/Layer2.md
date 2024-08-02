@@ -1,14 +1,18 @@
 ---
 title: Layer2
 description: 블록체인 네트워크에서 Layer2 솔루션의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [layer2, layer 2, blockchain layer2]
-tags: [technology, blockchain, layer2, scalability]
+aliases:
+  - layer2
+  - layer 2
+  - blockchain layer2
+tags:
+  - blockchain
+  - layer2
+  - scalability
 date: 2024-07-22
 ---
 
-## Layer2
-
-### Summary
+# Summary
 
 `Layer2`는 블록체인 네트워크의 확장성을 향상시키기 위해 메인 체인 외부에서 트랜잭션을 처리하는 솔루션을 의미합니다.
 

@@ -1,12 +1,13 @@
 ---
 title: Airdrop
 description: 암호화폐 네트워크에서 에어드랍(Airdrop)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [airdrop, cryptocurrency airdrop]
-tags: [technology, cryptocurrency, airdrop]
+aliases:
+  - token airdrop
+tags:
+  - airdrop
+  - token
 date: 2024-07-22
 ---
-
-## Airdrop
 
 ### Summary
 

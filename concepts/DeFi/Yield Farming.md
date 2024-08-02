@@ -6,8 +6,6 @@ tags: [defi, finance, yield farming]
 date: 2024-07-22
 ---
 
-## Yield Farming
-
 ### Summary
 
 `Yield Farming`은 DeFi에서 자산을 예치하고 이자를 통해 수익을 창출하는 방법을 의미합니다.

@@ -1,12 +1,14 @@
 ---
 title: Node
 description: 블록체인 네트워크에서 노드의 역할과 중요성을 다룹니다.
-aliases: [node, blockchain node]
-tags: [technology, blockchain, node]
+aliases:
+  - node
+  - blockchain node
+tags:
+  - blockchain
+  - node
 date: 2024-07-22
 ---
-
-## Node
 
 ### Summary
 

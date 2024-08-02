@@ -1,12 +1,14 @@
 ---
 title: LTV
 description: 대출 가치 비율(LTV)의 개념, 계산 방법, 및 중요성을 다룹니다.
-aliases: [ltv, loan to value ratio]
-tags: [finance, ltv, lending]
+aliases:
+  - loan to value ratio
+tags:
+  - lending
+  - defi
+  - finance
 date: 2024-07-22
 ---
-
-## LTV
 
 ### Summary
 

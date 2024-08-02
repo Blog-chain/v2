@@ -6,9 +6,7 @@ tags: [finance, compound interest, 이자]
 date: 2024-07-22
 ---
 
-## Compound Interest
-
-### Summary
+# Summary
 
 `Compound Interest`는 원금과 이전 기간의 이자에 대해 계산되는 이자를 의미합니다.
 

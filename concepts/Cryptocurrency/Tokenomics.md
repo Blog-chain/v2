@@ -1,12 +1,14 @@
 ---
 title: Tokenomics
 description: 암호화폐 네트워크에서 토크노믹스(Tokenomics)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [tokenomics, cryptocurrency tokenomics]
-tags: [technology, cryptocurrency, tokenomics]
+aliases:
+  - tokenomics
+  - cryptocurrency tokenomics
+tags:
+  - cryptocurrency
+  - tokenomics
 date: 2024-07-22
 ---
-
-## Tokenomics
 
 ### Summary
 

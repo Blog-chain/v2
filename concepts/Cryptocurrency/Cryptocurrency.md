@@ -1,12 +1,15 @@
 ---
 title: Cryptocurrency
 description: 암호화폐의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [cryptocurrency, digital currency, virtual currency]
-tags: [technology, cryptocurrency, digital assets]
+aliases:
+  - digital currency
+  - virtual currency
+tags:
+  - cryptocurrency
+  - digital
+  - assets
 date: 2024-07-22
 ---
-
-## Cryptocurrency
 
 ### Summary
 

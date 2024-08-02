@@ -1,12 +1,14 @@
 ---
 title: Stablecoin
 description: 암호화폐 네트워크에서 스테이블코인(Stablecoin)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [stablecoin, cryptocurrency stablecoin]
-tags: [technology, cryptocurrency, stablecoin]
+aliases:
+  - stablecoin
+  - cryptocurrency stablecoin
+tags:
+  - cryptocurrency
+  - stablecoin
 date: 2024-07-22
 ---
-
-## Stablecoin
 
 ### Summary
 

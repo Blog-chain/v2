@@ -1,12 +1,15 @@
 ---
 title: Merkle Tree
 description: 블록체인에서 머클 트리의 개념, 구조, 및 역할을 다룹니다.
-aliases: [merkle tree, merkle root]
-tags: [technology, blockchain, merkle tree]
+aliases:
+  - merkle tree
+  - merkle root
+tags:
+  - blockchain
+  - merkle
+  - tree
 date: 2024-07-22
 ---
-
-## Merkle Tree
 
 ### Summary
 

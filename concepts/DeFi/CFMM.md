@@ -6,8 +6,6 @@ tags: [finance, cfmm, exchange]
 date: 2024-07-22
 ---
 
-## CFMM
-
 ### Summary
 
 `CFMM (Constant Function Market Maker)`는 일정한 함수 시장 메이커를 의미합니다.

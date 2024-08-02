@@ -18,13 +18,9 @@
 
 ### Upside 1기
 
-|oomia|Null0RM|je1att0|
+|oomia|Null0RM|pluto1011|
 | :-: | :-: | :-: |
-| [<img src="https://avatars.githubusercontent.com/u/96914905" height=150 width=150> <br/> @oomia](https://github.com/oomia)| [<img src="https://avatars.githubusercontent.com/u/121216208" height=150 width=150> <br/> @Null0RM](https://github.com/Null0RM) | [<img src="https://avatars.githubusercontent.com/u/84884958" height=150 width=150> <br/> @je1att0](https://github.com/je1att0) |
-
-|hakid29|pluto1011|choihs0457|
-| :-: | :-: | :-: |
-| [<img src="https://avatars.githubusercontent.com/u/110910021" height=150 width=150> <br/> @hakid29](https://github.com/hakid29) | [<img src="https://avatars.githubusercontent.com/u/138684634" height=150 width=150> <br/> @pluto1011](https://github.com/pluto1011) | [<img src="https://avatars.githubusercontent.com/u/85881597" height=150 width=150> <br/> @choihs0457](https://github.com/choihs0457) |
+| [<img src="https://avatars.githubusercontent.com/u/96914905" height=150 width=150> <br/> @oomia](https://github.com/oomia)| [<img src="https://avatars.githubusercontent.com/u/121216208" height=150 width=150> <br/> @Null0RM](https://github.com/Null0RM) | [<img src="https://avatars.githubusercontent.com/u/138684634" height=150 width=150> <br/> @pluto1011](https://github.com/pluto1011) |
 
 ### Powershell
 
@@ -37,6 +33,22 @@ Invoke-Expression (Invoke-WebRequest -Uri "https://gist.githubusercontent.com/oo
 ```bash
 sh <(curl -s "https://gist.githubusercontent.com/ooMia/afbae4f3249609e0bf17e4b6c7baa696/raw/ada8812c56d056dc15f71fc6973bdf501ea0a6f0/get_github_avatar.sh")
 ```
+
+## Contributions
+
+### 🦝 @Null0RM
+- [[Block]]
+- [[Gasper]]
+- [[concepts/Consensus/PoS]]
+
+### 🌼 @pluto1011
+- OpenZeppelin
+  - type information
+- ERC-20
+- ERC-2771
+
+### 🐝 @ooMia
+- 
 
 <br>
 
@@ -52,12 +64,7 @@ GitHub Pages로의 정적 사이트 생성 지원
 
 <br>
 
-## 3. 역할 분담
 
-### 🍊 @Null0RM
-- Block
-- Gasper
-- PoS
 
 ## 4. 프로젝트 구조
 

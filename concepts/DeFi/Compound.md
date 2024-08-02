@@ -1,22 +1,22 @@
 ---
 title: Compound
 description: Compound의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [compound, 컴파운드]
-tags: [finance, compound, defi]
+aliases:
+  - compound
+  - 컴파운드
+tags:
+  - compound
+  - defi
 date: 2024-07-22
 ---
 
-## Compound
-
-### Summary
+# Summary
 
 `Compound`는 탈중앙화된 금융(DeFi) 프로토콜로, 사용자들이 자산을 예치하고 이자를 받을 수 있는 플랫폼입니다.
 
-### Description
+# Description
 
-`Compound`는 탈중앙화된 금융(DeFi) 프로토콜로, 사용자들이 자산을 예치하고 이자를 받을 수 있는 플랫폼입니다. Compound는 이더리움 네트워크 위에서 작동하며, 스마트 계약을 통해 자산의 예치와 대출을 관리합니다.
-
-### Compound의 기술적 구현
+Compound는 이더리움 네트워크 위에서 작동하며, 스마트 계약을 통해 자산의 예치와 대출을 관리합니다.
 
 1. **스마트 계약**: Compound는 이더리움 스마트 계약을 통해 자산의 예치와 대출을 관리합니다.
 2. **이자율 모델**: Compound는 알고리즘을 기반으로 이자율을 결정하여 유동성 공급자와 대출자 간의 균형을 맞춥니다.
@@ -30,7 +30,6 @@ date: 2024-07-22
 
 ### Related Keywords
 
-- [[Finance]]
 - [[DeFi]]
 - [[Ethereum]]
 - [[Smart Contracts]]

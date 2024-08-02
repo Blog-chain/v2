@@ -1,14 +1,17 @@
 ---
 title: Uniswap V3
 description: Uniswap V3의 개념, 작동 원리, 및 중요성을 다룹니다.
-aliases: [uniswap v3, uniswap]
-tags: [finance, uniswap, dex, amm]
+aliases:
+  - uniswap
+tags:
+  - uniswap
+  - dex
+  - amm
+  - defi
 date: 2024-07-22
 ---
 
-## Uniswap V3
-
-### Summary
+# Summary
 
 `Uniswap V3`은 Uniswap V2의 개선된 버전으로, 더 높은 유동성 효율성과 사용자 정의 기능을 제공합니다.
 

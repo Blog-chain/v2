@@ -6,9 +6,7 @@ tags: [regulation, law, compliance]
 date: 2024-07-22
 ---
 
-## Regulation
-
-### Summary
+# Summary
 
 암호화폐와 블록체인에 대한 규제 및 법률을 다룹니다.
 

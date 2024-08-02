@@ -1,12 +1,14 @@
 ---
 title: Pegging
 description: 암호화폐 네트워크에서 페깅(Pegging)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [pegging, cryptocurrency pegging]
-tags: [technology, cryptocurrency, pegging]
+aliases:
+  - pegging
+  - cryptocurrency pegging
+tags:
+  - cryptocurrency
+  - pegging
 date: 2024-07-22
 ---
-
-## Pegging
 
 ### Summary
 

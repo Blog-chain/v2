@@ -1,12 +1,13 @@
 ---
 title: Coin
 description: 암호화폐 네트워크에서 코인(Coin)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [coin, cryptocurrency coin]
-tags: [technology, cryptocurrency, coin]
+aliases:
+  - coin
+  - cryptocurrency coin
+tags:
+  - cryptocurrency
 date: 2024-07-22
 ---
-
-## Coin
 
 ### Summary
 

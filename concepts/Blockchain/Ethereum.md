@@ -1,12 +1,16 @@
 ---
 title: Ethereum
 description: 이더리움의 개념, 역사, 기술적 특징 및 작동 방식을 다룹니다.
-aliases: [ethereum, ETH, cryptocurrency]
-tags: [technology, blockchain, ethereum, cryptocurrency]
+aliases:
+  - ethereum
+  - ETH
+  - cryptocurrency
+tags:
+  - blockchain
+  - ethereum
+  - cryptocurrency
 date: 2024-07-22
 ---
-
-## Ethereum
 
 ### Summary
 
@@ -50,10 +54,10 @@ Ethereum의 미래는 다음과 같은 발전 방향을 가지고 있습니다:
 
 ### References
 
-- [Introduction to Ethereum](https://ethereum.org/en/what-is-ethereum/)
+- [What is Ethereum](https://ethereum.org/en/what-is-ethereum/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-- [Understanding Smart Contracts on Ethereum](https://ethereum.org/en/developers/docs/smart-contracts/)
-- [Ethereum 2.0 Upgrade](https://ethereum.org/en/eth2/)
+- [Introduction to smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [Ethereum roadmap](https://ethereum.org/en/eth2/)
 
 ### Related Keywords
 

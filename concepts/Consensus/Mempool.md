@@ -1,12 +1,16 @@
 ---
 title: Mempool
 description: 블록체인 네트워크에서 Mempool의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [mempool, blockchain mempool, transaction pool]
-tags: [technology, blockchain, mempool, transactions]
+aliases:
+  - mempool
+  - blockchain mempool
+  - transaction pool
+tags:
+  - blockchain
+  - mempool
+  - transactions
 date: 2024-07-22
 ---
-
-## Mempool
 
 ### Summary
 

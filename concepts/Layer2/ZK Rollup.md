@@ -1,14 +1,19 @@
 ---
 title: ZK Rollup
 description: 블록체인 네트워크에서 ZK 롤업(ZK Rollup)의 개념, 역할, 및 중요성을 다룹니다.
-aliases: [zk rollup, zero-knowledge rollup, blockchain zk rollup]
-tags: [technology, blockchain, zk rollup, layer2]
+aliases:
+  - zk rollup
+  - zero-knowledge rollup
+  - blockchain zk rollup
+tags:
+  - blockchain
+  - zk
+  - rollup
+  - layer2
 date: 2024-07-22
 ---
 
-## ZK Rollup
-
-### Summary
+# Summary
 
 `ZK Rollup`는 블록체인 네트워크에서 영지식 증명(Zero-Knowledge Proof)을 사용하여 트랜잭션을 롤업하고, 이를 메인 체인에 제출하는 Layer2 솔루션입니다.
 

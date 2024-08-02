@@ -2,14 +2,18 @@
 title: Optimistic Rollup
 description: 블록체인 네트워크에서 옵티미스틱 롤업(Optimistic Rollup)의 개념, 역할, 및 중요성을 다룹니다.
 aliases:
-  [optimistic rollup, blockchain optimistic rollup, layer2 optimistic rollup]
-tags: [technology, blockchain, optimistic rollup, layer2]
+  - optimistic rollup
+  - blockchain optimistic rollup
+  - layer2 optimistic rollup
+tags:
+  - blockchain
+  - optimistic
+  - rollup
+  - layer2
 date: 2024-07-22
 ---
 
-## Optimistic Rollup
-
-### Summary
+# Summary
 
 `Optimistic Rollup`는 블록체인 네트워크에서 트랜잭션을 롤업하여 메인 체인에 제출하고, 검증자가 트랜잭션의 유효성을 검증하는 Layer2 솔루션입니다.
 
