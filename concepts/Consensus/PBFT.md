@@ -9,6 +9,7 @@ tags:
   - Byzantine-fault
 date: 2024-07-22
 ---
+
 # Summary
 
 `PBFT (Practical Byzantine Fault Tolerance)`는 블록체인 네트워크에서 Byzantine Fault Tolerance를 구현하는 합의 알고리즘입니다.

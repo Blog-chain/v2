@@ -5,6 +5,7 @@ aliases: [cftc, commodity futures trading commission]
 tags: [regulation, law, compliance]
 date: 2024-07-22
 ---
+
 # Summary
 
 `CFTC (Commodity Futures Trading Commission)`는 미국의 상품 선물 거래 위원회를 의미합니다.

@@ -9,6 +9,7 @@ tags:
   - compliance
 date: 2024-07-22
 ---
+
 # Summary
 
 `SEC (Securities and Exchange Commission)`는 미국의 증권 거래 위원회를 의미합니다.
@@ -25,6 +26,7 @@ date: 2024-07-22
 
 - [SEC 설명](https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission)
 - [SEC의 작동 원리](https://www.investopedia.com/terms/s/sec.asp)
+
 # Related Keywords
 
 - [[Regulation]]

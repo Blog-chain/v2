@@ -5,6 +5,7 @@ aliases: [amm, automated market maker]
 tags: [finance, amm, exchange]
 date: 2024-07-22
 ---
+
 # Summary
 
 `AMM (Automated Market Maker)`는 자동화된 마켓 메이커를 의미하며, 탈중앙화 거래소에서 자주 사용되는 시스템입니다.

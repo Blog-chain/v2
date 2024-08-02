@@ -9,6 +9,7 @@ tags:
   - block
 date: 2024-07-22
 ---
+
 # Summary
 
 [https://bitcoinwiki.org/wiki/block](https://bitcoinwiki.org/wiki/block)
@@ -23,14 +24,13 @@ One or more transactions prefaced by a block header and protected by proof of wo
 
 ---
 
-
 [https://ethereum.org/en/developers/docs/blocks/](https://ethereum.org/en/developers/docs/blocks/)
 
-Blocks are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. This prevents fraud, because one change in any block in history would invalidate all the following blocks as all subsequent hashes would change and everyone running the blockchain would notice.                                                                                               
+Blocks are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. This prevents fraud, because one change in any block in history would invalidate all the following blocks as all subsequent hashes would change and everyone running the blockchain would notice.  
  New blocks are added to Ethereum every 12 seconds (unless a block proposer misses its turn), so a near-constant stream of data gets added to block explorers.
- 
- 
- Blocks contain a lot of important data that you may find useful:    
+
+Blocks contain a lot of important data that you may find useful:
+
 # Standard data
 
 [https://ethereum.org/en/developers/docs/data-and-analytics/block-explorers/#execution-data](https://ethereum.org/en/developers/docs/data-and-analytics/block-explorers/#execution-data) |

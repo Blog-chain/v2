@@ -5,6 +5,7 @@ aliases: [overcollateralization, 과다 담보]
 tags: [finance, overcollateralization, defi]
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Overcollateralization`은 대출을 받을 때 담보로 제공하는 자산의 가치가 대출 금액을 초과하는 상태를 의미합니다.

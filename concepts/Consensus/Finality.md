@@ -11,6 +11,7 @@ tags:
   - consensus
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Finality`는 블록체인 네트워크에서 트랜잭션이 변경 불가능하게 확정되는 상태를 의미합니다.

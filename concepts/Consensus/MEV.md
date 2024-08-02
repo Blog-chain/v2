@@ -13,6 +13,7 @@ tags:
   - value
 date: 2024-07-22
 ---
+
 # Summary
 
 `MEV (Miner Extractable Value)`는 블록체인 네트워크에서 채굴자가 트랜잭션을 재정렬하거나 포함하거나 제외하여 얻을 수 있는 최대 이익을 의미합니다.

@@ -10,6 +10,7 @@ tags:
   - eip
 date: 2024-07-22
 ---
+
 # Summary
 
 `EIP (Ethereum Improvement Proposal)`는 이더리움 네트워크의 개선 사항을 제안하고 논의하는 문서입니다.

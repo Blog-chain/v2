@@ -5,6 +5,7 @@ aliases: [leverage, financial leverage]
 tags: [finance, leverage, 레버리지]
 date: 2024-07-22
 ---
+
 # Summary
 
 `Leverage`는 차입 자본을 사용하여 투자 수익을 극대화하는 전략을 의미합니다.

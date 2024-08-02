@@ -5,6 +5,7 @@ aliases: [simple interest, 단리]
 tags: [finance, simple interest, 이자]
 date: 2024-07-22
 ---
+
 # Summary
 
 `Simple Interest`는 원금에 대해서만 계산되는 이자를 의미합니다.

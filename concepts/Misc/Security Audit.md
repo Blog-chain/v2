@@ -5,6 +5,7 @@ aliases: [security audit, 보안 감사]
 tags: [misc, security audit, security, audit]
 date: 2024-07-22
 ---
+
 # Summary
 
 `Security Audit`는 시스템, 네트워크, 또는 애플리케이션의 보안 상태를 평가하고 개선하는 절차입니다.

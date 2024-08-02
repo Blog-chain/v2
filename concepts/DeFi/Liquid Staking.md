@@ -9,9 +9,11 @@ tags:
   - defi
 date: 2024-07-22
 ---
+
 # Summary
 
 `Liquid staking provides` all of the benefits of traditional staking services while unlocking the value of staked assets for use as collateral across the DeFi ecosystem.
+
 # Description
 
 `Liquid Staking`은 자산을 스테이킹하고 그 대가로 유동성을 제공받을 수 있는 시스템을 의미합니다. 유동성 스테이킹은 자산을 잠그지 않고도 스테이킹 보상을 받을 수 있도록 하며, 유동성을 유지합니다.
@@ -28,6 +30,7 @@ date: 2024-07-22
 - [Liquid Staking의 작동 원리](https://www.investopedia.com/terms/l/liquid-staking.asp)
 - [Gemini의 Liquid Staking 설명](https://www.gemini.com/cryptopedia/search?query=liquid-staking)
 - https://chain.link/education-hub/liquid-staking
+
 # Related Keywords
 
 - [[Finance]]

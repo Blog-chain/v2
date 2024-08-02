@@ -9,6 +9,7 @@ tags:
   - altcoin
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Altcoin`은 비트코인을 제외한 모든 암호화폐를 의미합니다.

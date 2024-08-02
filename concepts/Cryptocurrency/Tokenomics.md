@@ -9,6 +9,7 @@ tags:
   - tokenomics
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Tokenomics`는 암호화폐의 경제적 모델과 유통 구조를 연구하는 분야입니다.

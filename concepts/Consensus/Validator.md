@@ -11,6 +11,7 @@ tags:
   - ethereum
 date: 2024-07-22
 ---
+
 # Summary
 
 `Validator`는 블록체인 네트워크에서 트랜잭션을 검증하고 새로운 블록을 생성하는 역할을 하는 참여자입니다.
@@ -22,6 +23,7 @@ date: 2024-07-22
 1. **트랜잭션 검증**: Validator는 네트워크에서 발생하는 트랜잭션을 검증하여, 트랜잭션의 무결성을 보장합니다.
 2. **블록 생성**: Validator는 검증된 트랜잭션을 모아 새로운 블록을 생성합니다. 이는 네트워크의 지속적인 운영을 보장하는 데 중요한 역할을 합니다.
 3. **보상**: Validator는 검증 작업에 대한 보상을 받습니다. 이는 Validator가 네트워크에 계속 참여하도록 유도하는 인센티브 역할을 합니다.
+
 # How this works
 
 validator가 되기 위해, user는 32ETH를 컨트랙트에 예치하고, execution client, consensus client, validator client이 세 개의 software를 실행시켜야 한다.
@@ -44,6 +46,7 @@ Ethereum에서의 검증 과정은 다음과 같은 단계로 이루어집니다
 6. **보상 수령**: 블록을 성공적으로 제안하고 검증한 검증자는 보상을 받습니다. 보상은 보통 스테이킹된 암호화폐의 양과 트랜잭션 수수료로 이루어집니다.
 
 # 구성
+
 ## LMD-GHOST 기반의 체인 연결
 
 Ethereum의 검증자는 LMD-GHOST(Latest Message Driven - Greedy Heaviest Observed SubTree) 알고리즘을 기반으로 체인에 연결합니다. 이 알고리즘은 검증자가 최신 메시지를 기반으로 가장 무거운 서브트리를 선택하여 포크 선택 규칙을 결정합니다. 이는 네트워크의 안정성과 보안을 강화하는 데 중요한 역할을 합니다.

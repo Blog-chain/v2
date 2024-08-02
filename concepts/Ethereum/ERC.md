@@ -10,6 +10,7 @@ tags:
   - erc
 date: 2024-07-22
 ---
+
 # Summary
 
 `ERC (Ethereum Request for Comments)`는 이더리움 네트워크의 표준을 정의하고 논의하는 문서입니다.

@@ -5,7 +5,9 @@ aliases: [misc, 기타]
 tags: [misc]
 date: 2024-07-22
 ---
+
 > 이 파일은 블록체인과 암호화폐 관련 다양한 기타 주제들을 포함합니다.
+
 ### Subtopics
 
 - Digital Identity

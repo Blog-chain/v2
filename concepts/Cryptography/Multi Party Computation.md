@@ -5,6 +5,7 @@ aliases: [multi party computation, mpc, 다자간 연산]
 tags: [cryptography, mpc, multi party computation]
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Multi Party Computation (MPC)`는 여러 당사자가 데이터를 공유하지 않고도 공동 연산을 수행할 수 있는 암호화 기술입니다.

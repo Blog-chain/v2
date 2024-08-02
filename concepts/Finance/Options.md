@@ -5,6 +5,7 @@ aliases: [options, 옵션]
 tags: [finance, options, 파생상품]
 date: 2024-07-22
 ---
+
 # Summary
 
 `Options`는 특정 기초 자산을 미리 정해진 가격에 일정 기간 내에 매수하거나 매도할 수 있는 권리를 의미합니다.

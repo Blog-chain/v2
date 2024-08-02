@@ -10,6 +10,7 @@ tags:
   - upgrade
 date: 2024-07-22
 ---
+
 # Summary
 
 `Shanghai Upgrade`는 이더리움 네트워크의 주요 업그레이드를 의미합니다.

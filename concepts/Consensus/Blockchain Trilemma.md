@@ -10,6 +10,7 @@ tags:
   - scalability
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Blockchain Trilemma`는 블록체인 기술에서 확장성, 보안성, 탈중앙화 세 가지 요소를 동시에 달성하기 어려운 문제를 의미합니다.

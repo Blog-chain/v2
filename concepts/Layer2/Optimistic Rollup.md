@@ -12,6 +12,7 @@ tags:
   - layer2
 date: 2024-07-22
 ---
+
 # Summary
 
 `Optimistic Rollup`는 블록체인 네트워크에서 트랜잭션을 롤업하여 메인 체인에 제출하고, 검증자가 트랜잭션의 유효성을 검증하는 Layer2 솔루션입니다.

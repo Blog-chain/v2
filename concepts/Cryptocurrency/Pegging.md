@@ -9,6 +9,7 @@ tags:
   - pegging
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Pegging`은 암호화폐의 가치를 특정 자산에 고정하는 메커니즘을 의미합니다.

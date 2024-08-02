@@ -8,6 +8,7 @@ tags:
   - cryptocurrency
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Coin`은 블록체인 네트워크에서 독립적으로 운영되는 암호화폐를 의미합니다.

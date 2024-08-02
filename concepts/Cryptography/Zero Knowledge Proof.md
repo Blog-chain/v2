@@ -11,6 +11,7 @@ tags:
   - zk
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Zero Knowledge Proof (ZKP)`는 정보를 공개하지 않고 특정 사실을 증명할 수 있는 암호화 기술입니다.

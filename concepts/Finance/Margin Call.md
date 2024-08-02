@@ -5,6 +5,7 @@ aliases: [margin call, 마진 콜]
 tags: [finance, margin call, 레버리지]
 date: 2024-07-22
 ---
+
 # Summary
 
 `Margin Call`은 투자자가 유지해야 할 최소한의 증거금 수준을 유지하지 못할 때 증거금을 추가로 납부해야 한다는 통보를 의미합니다.

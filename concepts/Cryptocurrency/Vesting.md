@@ -9,6 +9,7 @@ tags:
   - vesting
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Vesting`은 특정 기간 동안 자산이 서서히 사용 가능하게 되는 메커니즘을 의미합니다.

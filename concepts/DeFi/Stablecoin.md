@@ -9,6 +9,7 @@ tags:
   - stablecoin
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Stablecoin`은 가치가 특정 자산에 고정된 암호화폐를 의미합니다.

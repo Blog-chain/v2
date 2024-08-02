@@ -1,14 +1,12 @@
 ---
 title: Account Abstraction
-description: 
+description:
 aliases:
   - ERC-4337
 tags:
   - ERC
 date: 2024-08-02
 ---
-
-
 
 https://blog.thirdweb.com/account-abstraction-erc4337/
 

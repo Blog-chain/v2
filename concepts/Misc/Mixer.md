@@ -1,8 +1,8 @@
 ---
 title: Mixer
-description: 
-aliases: 
-tags: 
+description:
+aliases:
+tags:
 date: 2024-07-31
 ---
 

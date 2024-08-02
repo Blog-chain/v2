@@ -11,6 +11,7 @@ tags:
   - cryptocurrency
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Ethereum`은 Vitalik Buterin이 2015년에 출시한 분산형 블록체인 플랫폼으로, 스마트 계약과 탈중앙화 애플리케이션(DApps)을 실행할 수 있습니다.

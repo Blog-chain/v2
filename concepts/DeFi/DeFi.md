@@ -8,6 +8,7 @@ tags:
   - blockchain
 date: 2024-07-22
 ---
+
 ### Summary
 
 `DeFi (Decentralized Finance)`는 블록체인 기술을 기반으로 한 탈중앙화 금융 시스템을 의미합니다.

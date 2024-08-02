@@ -8,6 +8,7 @@ tags:
   - cryptocurrency
 date: 2024-07-22
 ---
+
 # Summary
 
 `EOA (Externally Owned Account)`는 개인 키로 제어되는 계정을 의미합니다.

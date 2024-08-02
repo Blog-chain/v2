@@ -11,6 +11,7 @@ tags:
   - node
 date: 2024-07-22
 ---
+
 # Summary
 
 `Archive Node`는 블록체인 네트워크에서 모든 역사적 상태를 저장하는 노드로, 전체 블록체인의 데이터를 보존하고 제공하는 역할을 합니다.
@@ -33,6 +34,7 @@ date: 2024-07-22
 
 - [아카이브 노드의 개념과 역할](https://ethereum.org/en/developers/docs/nodes-and-clients/archive-nodes/)
 - [아카이브 노드의 구성 및 사용 사례](https://www.alchemy.com/overviews/archive-nodes)
+
 # Related Keywords
 
 - [[Blockchain]]

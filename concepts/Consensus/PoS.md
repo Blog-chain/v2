@@ -9,6 +9,7 @@ tags:
   - stake
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Proof of Stake (PoS)`는 블록체인 네트워크에서 특정 양의 암호화폐를 보유한 사용자가 블록을 생성하고 검증하는 합의 메커니즘이다.
@@ -23,8 +24,7 @@ Validator가 네트워크에 지분을 스테이킹하여 트랜잭션(혹은 �
 2. **에너지 효율성**: PoS는 PoW와 달리 복잡한 수학 문제를 해결할 필요가 없으므로 에너지 소비가 적습니다. 이는 환경 친화적인 합의 메커니즘입니다.
 3. **보안 강화**: PoS는 네트워크의 보안을 강화합니다. 검증자는 자신의 지분을 위험에 노출시켜 네트워크의 무결성을 유지합니다.
 
-
-![[Validator#How this works]] 
+![[Validator#How this works]]
 
 # How transaction gets executed
 
@@ -99,8 +99,6 @@ Validator가 네트워크에 지분을 스테이킹하여 트랜잭션(혹은 �
 
 - **LMD-GHOST (Latest Message Driven - Greedy Heaviest Observed SubTree)**: 이 알고리즘은 검증자들이 최신 메시지를 기반으로 가장 무거운 서브트리를 선택하여 포크 선택 규칙을 결정한다. 이는 네트워크의 안정성과 보안을 강화하는 데 중요한 역할을 한다.
 - **Casper**: Ethereum의 PoS 구현 중 하나로, 검증자가 블록을 생성하고 합의에 도달하는 과정을 정의한다. Casper는 네트워크의 보안을 강화하고, 이중 지불 공격을 방지하는 데 중요한 역할을 한다.
-
-
 
 ### References
 

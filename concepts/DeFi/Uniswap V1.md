@@ -10,6 +10,7 @@ tags:
   - defi
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Uniswap V1`은 탈중앙화 거래소(DEX)로, AMM 방식을 사용하여 거래를 중개합니다.

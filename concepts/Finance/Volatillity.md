@@ -7,6 +7,7 @@ tags:
   - finance
 date: 2024-07-22
 ---
+
 # Summary
 
 `Volatility`는 자산 가격의 변동성을 나타내는 지표를 의미합니다.

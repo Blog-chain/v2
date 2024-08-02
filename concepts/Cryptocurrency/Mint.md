@@ -9,6 +9,7 @@ tags:
   - minting
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Mint`는 새로운 암호화폐 토큰을 생성하는 과정을 의미합니다.

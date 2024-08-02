@@ -5,6 +5,7 @@ aliases: [tradfi, traditional finance]
 tags: [finance, tradfi, traditional finance]
 date: 2024-07-22
 ---
+
 ### Summary
 
 `TradFi (Traditional Finance)`는 전통적인 금융 시스템을 의미합니다.

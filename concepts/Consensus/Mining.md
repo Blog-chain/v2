@@ -11,6 +11,7 @@ tags:
   - cryptocurrency
 date: 2024-07-22
 ---
+
 # Summary
 
 `Mining`은 블록체인 네트워크에서 새로운 블록을 생성하고 검증하는 과정입니다.
@@ -31,6 +32,7 @@ Mining은 블록체인 네트워크의 보안을 유지하고, 새로운 블록�
 - [Mining의 작동 원리](https://example.org/mining-explanation)
 - [Bitcoin의 Mining](https://bitcoin.org/mining)
 - [Ethereum의 Mining](https://ethereum.org/mining)
+
 # Related Keywords
 
 - [[PoW]]

@@ -11,6 +11,7 @@ tags:
   - cryptocurrency
 date: 2024-07-22
 ---
+
 # Summary
 
 `Bitcoin`은 2008년에 Satoshi Nakamoto에 의해 발명된 첫 번째 분산형 디지털 화폐입니다. 이는 탈중앙화된 블록체인 기술을 기반으로 하며, 작업 증명(Proof of Work) 합의 메커니즘을 사용합니다.

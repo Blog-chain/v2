@@ -14,6 +14,7 @@ tags:
   - value
 date: 2024-07-22
 ---
+
 ### Summary
 
 `Flashbot`은 블록체인 네트워크에서 MEV(Miner Extractable Value)를 최적화하고 투명성을 제공하기 위해 개발된 솔루션입니다.

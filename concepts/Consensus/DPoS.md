@@ -9,6 +9,7 @@ tags:
   - stake
 date: 2024-07-22
 ---
+
 # Summary
 
 `Delegated Proof of Stake (DPoS)`는 블록체인 네트워크에서 토큰 보유자가 검증자를 선출하여 블록을 생성하고 검증하는 합의 메커니즘입니다.

@@ -8,6 +8,7 @@ tags:
   - consensus
 date: 2024-07-22
 ---
+
 # Summary
 
 `Proof of Work (PoW)`는 블록체인 네트워크에서 채굴자가 복잡한 수학 문제를 해결하여 새로운 블록을 생성하고 보상을 받는 합의 메커니즘입니다.
