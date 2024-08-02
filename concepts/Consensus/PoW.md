@@ -1,20 +1,18 @@
 ---
-title: Proof of Work
+title: PoW
 description: 블록체인 네트워크에서 작업 증명(Proof of Work)의 개념, 역할, 및 중요성을 다룹니다.
 aliases:
   - proof of work
-  - PoW
-  - blockchain proof of work
 tags:
   - blockchain
   - consensus
 date: 2024-07-22
 ---
-### Summary
+# Summary
 
 `Proof of Work (PoW)`는 블록체인 네트워크에서 채굴자가 복잡한 수학 문제를 해결하여 새로운 블록을 생성하고 보상을 받는 합의 메커니즘입니다.
 
-### Description
+# Description
 
 `Proof of Work (PoW)`는 블록체인 네트워크에서 가장 널리 사용되는 합의 메커니즘 중 하나로, 채굴자가 복잡한 수학 문제를 해결하여 새로운 블록을 생성하고 보상을 받는 방식을 의미합니다. 이는 네트워크의 보안을 강화하고, 트랜잭션의 순서를 결정하는 데 중요한 역할을 합니다.
 
@@ -30,12 +28,12 @@ PoW의 작동 방식은 다음과 같습니다:
 2. **검증**: 블록이 생성되면, 네트워크의 다른 노드들이 이를 검증하여 블록체인에 추가합니다.
 3. **보상**: 블록을 성공적으로 생성한 채굴자는 블록 보상과 트랜잭션 수수료를 받습니다.
 
-### References
+# References
 
 - [PoW의 작동 원리](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
 - [Bitcoin의 PoW](https://bitcoin.org/en/how-it-works#proof-of-work)
 
-### Related Keywords
+# Related Keywords
 
 - [[Mining]]
 - [[Nonce]]

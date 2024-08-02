@@ -1,10 +1,8 @@
 ---
-title: Proof of Stake
+title: PoS
 description: 블록체인 네트워크에서 지분 증명(Proof of Stake)의 개념, 역할, 및 중요성을 다룹니다.
 aliases:
   - proof of stake
-  - PoS
-  - blockchain proof of stake
 tags:
   - blockchain
   - consensus

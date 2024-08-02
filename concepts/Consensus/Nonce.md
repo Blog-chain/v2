@@ -51,7 +51,7 @@ Nonce는 블록체인 네트워크의 무결성과 보안을 유지하는 중요
 
 ### Related Keywords
 
-- [[Proof of Work]]
+- [[PoW]]
 - [[Mining]]
 - [[Blockchain]]
 - [[Security]]

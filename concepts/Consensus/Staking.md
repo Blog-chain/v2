@@ -43,7 +43,7 @@ Ethereum의 스테이킹은 네트워크의 보안을 유지하고, 합의를 �
 
 ### Related Keywords
 
-- [[Proof of Stake]]
+- [[PoS]]
 - [[Blockchain]]
 - [[Security]]
 - [[Cryptocurrency]]

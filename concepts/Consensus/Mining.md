@@ -33,7 +33,7 @@ Mining은 블록체인 네트워크의 보안을 유지하고, 새로운 블록�
 - [Ethereum의 Mining](https://ethereum.org/mining)
 # Related Keywords
 
-- [[Proof of Work]]
+- [[PoW]]
 - [[Blockchain]]
 - [[Security]]
 - [[Cryptocurrency]]

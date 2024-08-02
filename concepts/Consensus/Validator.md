@@ -63,7 +63,7 @@ Ethereum의 검증자는 다양한 기술을 활용하여 네트워크의 보안
 ### Related Keywords
 
 - [[Staking]]
-- [[Proof of Stake]]
+- [[PoS]]
 - [[Ethereum]]
 - [[Validator]]
 - [[Slashing]]
