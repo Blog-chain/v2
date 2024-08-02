@@ -1,3 +1,10 @@
+---
+title: Arbitrum
+description: Arbitrum
+aliases: 
+tags: 
+---
+
 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
 
 https://www.kvarnx.com/content/understanding-arbitrum-your-guide-to-layer-2-scaling

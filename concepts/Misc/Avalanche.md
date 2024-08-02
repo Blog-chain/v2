@@ -1,3 +1,10 @@
+---
+title: Avalanche
+description: Avalanche
+aliases:
+tags:
+---
+
 ![[Pasted image 20240707155006.png]]
 
 # Reference
