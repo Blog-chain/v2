@@ -6,11 +6,11 @@ tags: [finance, liquidation, 레버리지]
 date: 2024-07-22
 ---
 
-# Summary
+## Summary
 
 `Liquidation`은 투자자가 유지해야 할 증거금을 유지하지 못할 때 포지션을 강제로 청산하는 과정을 의미합니다.
 
-### Description
+## Description
 
 `Liquidation`은 투자자가 증거금 계좌에 유지해야 할 최소한의 증거금 수준을 유지하지 못할 때 포지션을 강제로 청산하는 과정을 의미합니다. 청산은 레버리지를 사용하는 투자에서 자주 발생하며, 투자자의 자산을 보호하기 위해 수행됩니다.
 

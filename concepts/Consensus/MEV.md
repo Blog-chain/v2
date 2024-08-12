@@ -1,16 +1,14 @@
 ---
 title: MEV
-description: 블록체인 네트워크에서 채굴자 추출 가치(Miner Extractable Value, MEV)의 개념, 역할, 및 중요성을 다룹니다.
+description: " MEV의 개념"
 aliases:
-  - mev
   - miner extractable value
-  - blockchain mev
+  - Maximum Extractable Value
 tags:
   - blockchain
   - mev
   - miner
-  - extractable
-  - value
+  - defi
 date: 2024-07-22
 ---
 

@@ -2,12 +2,9 @@
 title: Blockchain Trilemma
 description: 블록체인 트릴레마의 개념, 문제점, 및 해결 방안을 다룹니다.
 aliases:
-  - blockchain trilemma
-  - scalability trilemma
+  - trilemma
 tags:
   - blockchain
-  - trilemma
-  - scalability
 date: 2024-07-22
 ---
 

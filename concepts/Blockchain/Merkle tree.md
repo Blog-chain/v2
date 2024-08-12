@@ -2,20 +2,18 @@
 title: Merkle Tree
 description: 블록체인에서 머클 트리의 개념, 구조, 및 역할을 다룹니다.
 aliases:
-  - merkle tree
-  - merkle root
+  - Merkle Patricia Tree
+  - 머클 트리
 tags:
   - blockchain
-  - merkle
-  - tree
-date: 2024-07-22
+date: 2024-08-10
 ---
 
-### Summary
+## Summary
 
 `Merkle Tree`는 블록체인에서 트랜잭션의 무결성을 검증하고 요약하는 해시 트리 구조입니다. 이는 트랜잭션 데이터를 효율적으로 검증하고 보관하는 데 사용됩니다.
 
-### Description
+## Description
 
 `Merkle Tree`는 블록체인 기술에서 중요한 데이터 구조로, 트랜잭션의 무결성을 검증하고 요약하는 역할을 합니다. Merkle Tree는 다음과 같은 구조로 이루어져 있습니다:
 
@@ -54,17 +52,20 @@ Bitcoin 블록체인에서는 Merkle Root를 계산하기 위해 트랜잭션의
 4. 최종적으로 Merkle Root를 계산합니다:
    - Merkle Root = D(H1234 + H5677)
 
-### References
+![MerkleTree](merkle_tree.png)
 
-- [Merkle Tree의 개념과 역할](https://steemit.com/kr/@yahweh87/4-merkle-tree-merkle-root)
-- [머클 트리의 구조와 특징](https://steemit.com/kr/@brownbears/merkle-tree)
-- [Investopedia의 Merkle Tree 설명](https://www.investopedia.com/terms/m/merkle-tree.asp)
+> 블록 H_D가 트리에 포함되어 있는지 검증하기 위해, 3개 블록 H_C, H_AB, H_EFGH 값만 가져오면 된다.
 
-### Related Keywords
+## References
+
+- [# 4 - 머클트리(Merkle Tree) 및 머클루트(Merkle Root)에 관한 정의](https://steemit.com/kr/@yahweh87/4-merkle-tree-merkle-root)
+- [머클트리(Merkle Tree)란?](https://devureak.tistory.com/38)
+- [1-2. 머클트리(Merkle Tree)란?](https://steemit.com/kr/@brownbears/merkle-tree)
+- [Merkle Tree in Blockchain: What It Is and How It Works](https://www.investopedia.com/terms/m/merkle-tree.asp)
+
+## Related Keywords
 
 - [[Blockchain]]
 - [[Block]]
-- [[Timestamp]]
+- [[Hash]]
 - [[Node]]
-- [[Bitcoin]]
-- [[Ethereum]]
