@@ -2,12 +2,11 @@
 title: Testnet
 description: 블록체인에서 테스트넷(Testnet)의 개념, 역할, 및 중요성을 다룹니다.
 aliases:
-  - testnet
-  - blockchain testnet
+  - 테스트넷
 tags:
   - blockchain
-  - testnet
-date: 2024-07-22
+  - network
+date: 2024-08-10
 ---
 
 ### Summary
@@ -23,6 +22,10 @@ date: 2024-07-22
 3. **네트워크 안정성**: Testnet은 실제 네트워크와 유사한 환경을 제공하여, 네트워크의 안정성을 시험하고 개선할 수 있습니다.
 
 Testnet은 다양한 블록체인 네트워크에서 사용되며, 주요 블록체인 프로젝트들은 자체 Testnet을 운영하고 있습니다. 예를 들어, Ethereum의 Ropsten, Rinkeby, Kovan Testnet 등이 있습니다.
+
+### Mainnet vs testnet – the difference in layman’s terms
+
+Mainnet과 Testnet의 차이를 이해하기 쉽게 설명하면, 백신을 예로 들 수 있습니다. 백신은 약화된 바이러스 버전을 포함하여 면역 세포가 바이러스 구조를 인식하게 합니다. 이를 통해 실제 바이러스가 공격할 때 몸의 방어 시스템이 준비될 수 있도록 합니다. 약화된 바이러스 버전은 Testnet이며, Mainnet은 실제 환경에서 지식을 적용하는 것입니다.
 
 ### References
 

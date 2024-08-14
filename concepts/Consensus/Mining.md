@@ -32,6 +32,7 @@ Mining은 블록체인 네트워크의 보안을 유지하고, 새로운 블록�
 - [Mining의 작동 원리](https://example.org/mining-explanation)
 - [Bitcoin의 Mining](https://bitcoin.org/mining)
 - [Ethereum의 Mining](https://ethereum.org/mining)
+- [How Does Bitcoin Mining Work? A Beginner's Guide](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
 
 # Related Keywords
 

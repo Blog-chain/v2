@@ -1,14 +1,14 @@
-# 📖 Blog-chain
+# [📖 Blog-chain](https://blog-chain.github.io/blogc)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-
-- https://blog-chain.github.io/quartz/
 
 <br>
 
 ## 프로젝트 소개
 
 - Blockchain 관련 용어 정리
+- obsidian graph를 통한 용어 간 관계 시각화
+- giscus 댓글 기능을 통한 의견 교류 지향
 
 ---
 
@@ -18,9 +18,9 @@
 
 ### Upside 1기
 
-|oomia|Null0RM|pluto1011|
-| :-: | :-: | :-: |
-| [<img src="https://avatars.githubusercontent.com/u/96914905" height=150 width=150> <br/> @oomia](https://github.com/oomia)| [<img src="https://avatars.githubusercontent.com/u/121216208" height=150 width=150> <br/> @Null0RM](https://github.com/Null0RM) | [<img src="https://avatars.githubusercontent.com/u/138684634" height=150 width=150> <br/> @pluto1011](https://github.com/pluto1011) |
+|oomia|Null0RM|pluto1011|rivercastleone|
+| :-: | :-: | :-: | :-: |
+| [<img src="https://avatars.githubusercontent.com/u/96914905" height=150 width=150> <br/> @oomia](https://github.com/oomia) | [<img src="https://avatars.githubusercontent.com/u/121216208" height=150 width=150> <br/> @Null0RM](https://github.com/Null0RM) | [<img src="https://avatars.githubusercontent.com/u/138684634" height=150 width=150> <br/> @pluto1011](https://github.com/pluto1011) | [<img src="https://avatars.githubusercontent.com/u/117525343" height=150 width=150> <br/> @rivercastleone](https://github.com/rivercastleone) |
 
 ### Powershell
 
@@ -38,20 +38,14 @@ sh <(curl -s "https://gist.githubusercontent.com/ooMia/afbae4f3249609e0bf17e4b6c
 
 ### 🦝 @Null0RM
 
-- [[Block]]
-- [[Gasper]]
-- [[concepts/Consensus/PoS]]
+- PoS
+- Mixer
 
 ### 🌼 @pluto1011
 
-- OpenZeppelin
-  - type information
-- ERC-20
-- ERC-2771
-
-### 🐝 @ooMia
-
--
+- OpenZeppelin/solidity/5.x
+  - ERC-20
+  - ERC-2771
 
 <br>
 
@@ -60,23 +54,16 @@ sh <(curl -s "https://gist.githubusercontent.com/ooMia/afbae4f3249609e0bf17e4b6c
 ### Quartz
 
 GitHub Pages로의 정적 사이트 생성 지원
+/ [결과 링크](https://blog-chain.github.io/blogc/)
 
 ## 2. 브랜치 전략
 
-- 정리할 컨텐츠 별로 브랜치 생성하여 정리
-- 한 번에 수정할 내용이 많다면, `@닉네임` 등으로 파서 PR 내용으로 정리
+- 컨텐츠 별 브랜치 생성
+- 수정 내용이 많다면, `@닉네임`으로 생성 후, PR 내 변경 내용 정리
 
 <br>
 
-## 4. 프로젝트 구조
+## 3. 개발 정보
 
-- Windows CMD에서 `tree /F | clip` 명령어 사용
-  차후 `대주제` 추가
-
-<br>
-
-## 5. 개발 정보
-
-- 8월 중순 종료 예정
-- Obsidian 기반, Quartz 정적 사이트 배포
+- Obsidian 기반, Quartz 정적 사이트 배포 / [레포 링크](https://github.com/Blog-chain/blogc)
 - 마크다운 다루기 어려우면 `Notion` 사용해서 복붙하기

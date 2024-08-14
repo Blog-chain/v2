@@ -1,8 +1,10 @@
 ---
 title: Arbitrum
 description: Arbitrum
-aliases: 
-tags: 
+aliases:
+tags:
+  - ethereum
+  - layer-2
 ---
 
 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction

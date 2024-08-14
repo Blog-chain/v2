@@ -9,11 +9,11 @@ tags:
 date: 2024-08-02
 ---
 
-# Summary
+## Summary
 
 LMD-GHOST (Latest Message Driven Greediest Heaviest Observed SubTree) 알고리즘은 이더리움 2.0에서 사용되는 합의 알고리즘입니다. 이 알고리즘은 블록체인의 헤드를 결정하는 데 사용되며, 네트워크 참여자들의 최신 메시지를 기반으로 가장 무거운 서브트리를 선택합니다.
 
-### Description
+## Description
 
 LMD-GHOST 알고리즘은 다음과 같은 방식으로 작동합니다:
 
@@ -23,10 +23,10 @@ LMD-GHOST 알고리즘은 다음과 같은 방식으로 작동합니다:
 
 이 알고리즘은 블록의 깊이와 상관없이 각 블록에 대한 투표 수를 기반으로 체인의 헤드를 결정합니다. 이를 통해 네트워크의 최신 상태를 반영하고, 가장 무거운 서브트리를 선택할 수 있습니다.
 
-### References
+## References
 
 - https://eth2book.info/capella/part2/consensus/lmd_ghost
 
-### Related Keywords
+## Related Keywords
 
 - [[Ethereum]]
