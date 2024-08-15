@@ -74,7 +74,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 2. store_target_checkpoint_state : store에 checkpoint에 대한 관리
 3. update_latest_messages : Casper FFG와 LMD GHOST결과 업데이트
 
-> *store : Fork choice 알고리즘을 위해 필요한 정보를 저장하고 관리하는 object*
+> store : Fork choice 알고리즘을 위해 필요한 정보를 저장하고 관리하는 object
 
 ![pic12](./images/Pastedimage20240815174510.png)
 -  현재 attestation이 진행중인 epoch를 target으로 지정 
@@ -113,7 +113,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - justified 했던 epoch들 중에서 마지막 epoch을 제거하고 새로운 epoch에 대한 값(**0**)을 할당합니다.
 - justified 되기위한 조건을 통과하면 할당했던 값(**0**)을 수정(**1**)합니다.
 
-> *어떤 epoch을 target으로 지정한 validator들의 총 effective balance의 값이 active 상태의 validator의 총 effective balance 값의 2/3과 같거나 크면  해당 epoch은 **justified checkpoint**가 됩니다.*
+> 어떤 epoch을 target으로 지정한 validator들의 총 effective balance의 값이 active 상태의 validator의 총 effective balance 값의 2/3과 같거나 크면  해당 epoch은 **justified checkpoint**가 됩니다.
 
 ![pic18](./images/Pastedimage20240815205434.png)
 
