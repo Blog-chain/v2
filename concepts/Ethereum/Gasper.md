@@ -132,7 +132,9 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 결론적으로 Casper FFG 과정을 짧게 정리하면 다음과 같습니다.
 ![pic19](./images/Pastedimage20240815211319.png)
 1.  validator attestation data는 현재 head의 상태와 target checkpoint를 참조하여 생성
+
 2.  validator의 attestation에 대한 유효성을 검사
+
 3.  FFG는 checkpoint 주기 (1 epoch) 마다 justified와 finalized를 판단한다.
 
 >  justified가 되기 위해서는 전체 active validator의 2/3 이상의 target epoch에 대한 attestation이 모여야 한다.
@@ -142,6 +144,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - https://beaconcha.in/
 - [https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/fork-choice.md](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/fork-choice.md "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/fork-choice.md")
 - [https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md")
+- https://nullorm.tistory.com/56
 ### Related Keywords
 
 - [[Consensus]]
@@ -151,3 +154,4 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 ### ETC
 ![pic20](./images/Pastedimage20240815210827.png)
 ![pic21](./images/Pastedimage20240815210843.png)
+자료 검토해주신 @vero 멘토님께 감사드립니다.
