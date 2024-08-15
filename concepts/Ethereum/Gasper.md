@@ -99,8 +99,8 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - **process_slots**에서 target slot보다 작을 때 까지 slot을 1씩 더합니다.
 - 다음 slot이 epoch에 해당하는 첫 slot인 경우에 **process_epoch** 함수를 호출합니다.
 ![pic15](./images/Pastedimage20240815194255.png)
-**process_epoch** 에서의 여러 함수들 중 **process_justification_and_finalization** 함수만 살펴보도록 하겠습니다.
 
+**process_epoch** 에서의 여러 함수들 중 **process_justification_and_finalization** 함수만 살펴보도록 하겠습니다.
 ![pic16](./images/Pastedimage20240815194539.png)
 - 이전과 현재 epoch에서 검증에 참여한 validator들의 index를 가져옵니다.
 - active 상태의 validator들의 모든 effective balance의 합(**active_balance**)을 구합니다.
