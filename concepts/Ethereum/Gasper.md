@@ -34,7 +34,7 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 - slot : attestation에 연관된 slot을 의미합니다
 - index : 검증에 참여한 comittee의 index를 의미합니다
 - beacon_block_root : LMD_GHOST vote 결과의 head block의 root 값을 의미합니다.
-- source : Casper FFG에 의해 가장 최근의 justfied된 checkpoint를 의미합니다
+- source : Casper FFG에 의해 가장 최근의 justified된 checkpoint를 의미합니다
 - target : 가장 최근의 epoch을 의미합니다.
 
 #### LMD GHOST
@@ -139,7 +139,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 > **J: Justified epoch**
 > **F: Finalized epoch**
 
-**justfied checkpoint**가 새로 생기면 **이전의 justfied checkpoint**는 **finalized checkpoint**로 설정되며 justified와 finalized 간의 link를 **supermajority link**라고합니다.
+**justified checkpoint**가 새로 생기면 **이전의 justified checkpoint**는 **finalized checkpoint**로 설정되며 justified와 finalized 간의 link를 **supermajority link**라고합니다.
 
 결론적으로 Casper FFG 과정을 짧게 정리하면 다음과 같습니다.
 ![pic19](./images/Pastedimage20240815211319.png)
