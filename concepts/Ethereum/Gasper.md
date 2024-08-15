@@ -13,6 +13,7 @@ date: 2024-08-15
 # Summary
 
 Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네트워크 상의 신뢰할 수 없거나 검증자가 악의적인 경우에도 합의가 가능하도록 하는 것이 Gasper의 목표입니다.
+
 이더리움 공식 github 문서를 통해 Gasper의 합의 과정을 분석한 글입니다.
 ### Description
 
