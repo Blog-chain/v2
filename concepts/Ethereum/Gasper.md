@@ -144,7 +144,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 
 2.  validator의 attestation에 대한 유효성을 검사
 
-3.  FFG는 checkpoint 주기 (1 epoch) 마다 justified와 finalized를 판단한다.
+3.  Casper FFG는 checkpoint 주기 (1 epoch) 마다 justified와 finalized를 판단한다.
 
 >  justified가 되기 위해서는 전체 active validator의 2/3 이상의 target epoch에 대한 attestation이 모여야 한다.
 ### References
