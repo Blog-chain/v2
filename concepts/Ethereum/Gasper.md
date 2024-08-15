@@ -140,7 +140,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 
 결론적으로 Casper FFG 과정을 짧게 정리하면 다음과 같습니다.
 ![pic19](./images/Pastedimage20240815211319.png)
-1.  validator attestation data는 현재 head의 상태와 target checkpoint를 참조하여 생성
+1.  validator attestation data는 현재 head의 state와 target checkpoint를 참조하여 생성
 
 2.  validator의 attestation에 대한 유효성을 검사
 
