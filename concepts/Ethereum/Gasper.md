@@ -5,8 +5,8 @@ aliases:
 tags:
   - ethereum
   - consensus
-  - "#LMD-GHOST"
-  - "#CasperFFG"
+  - LMD-GHOST
+  - CasperFFG
 date: 2024-08-15
 ---
 
