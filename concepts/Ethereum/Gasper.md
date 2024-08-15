@@ -2,11 +2,11 @@
 title: Gasper Algorithm
 description: An overview of the Gasper consensus algorithm used in Ethereum.
 aliases: 
+  - LMD-GHOST
+  - Casper FFG
 tags:
   - ethereum
   - consensus
-  - LMD-GHOST
-  - CasperFFG
 date: 2024-08-15
 ---
 
