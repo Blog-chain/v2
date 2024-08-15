@@ -21,12 +21,14 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 여러 Field 중 **attestations**에 Gasper가 관여하게 됩니다.
  
 **attestations** Field는 다음과 같습니다.
+
 ![pic2](./images/Pastedimage20240815153612.png)
 - aggregation_bits : validator의 참여 유/무를 나타냅니다 (참여: 1, 불참 : 0)![pic3](./images/Pastedimage20240815211036.png)
 - data : attestation에 대한 여러 Field가 존재합니다.
 - signature : 검증에 참여한 validator들의 signature을 BLS signature 알고리즘을 통해서 합친 것을 의미합니다. 
 
 **data** Field는 다음과 같습니다.
+
 ![pic4](./images/Pastedimage20240815154904.png)
 - slot : attestation에 연관된 slot을 의미합니다
 - index : 검증에 참여한 comittee의 index를 의미합니다
@@ -38,13 +40,15 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 ![pic5](./images/Pastedimage20240815160853.png)
 LMD GHOST vote 결과로 선정된 head block에 대한 root 값을  beacon_block_root로 저장합니다.
 head block은 다음과 같은 과정을 통해서 선정됩니다.
+
 ![pic6](./images/Pastedimage20240815164141.png)
 1. 유효한 분기만 포함하는 block tree를 가져옵니다.
 2. **가장 최근의 justified된 checkpoint의 root**에서 시작해서 모든 자식 블록을 찾습니다.
 3. 자식 블록들 중에서 부모 블록의 root 값이 가장 최근의 **justified된 checkpoint의 root** 와 같은지 비교합니다.
 4. 모든 자식 블록들 중에서 **가장 큰 가중치**를 가진 블록을 새로운 head block으로 선정합니다.
 
-가중치를 매기는 과정은 다음과 같습니다
+가중치를 매기는 과정은 다음과 같습니다.
+
 ![pic7](./images/Pastedimage20240815172312.png)
 1. 검증에 참여하는 validator의 조건을 확인합니다. (슬래싱 여부, attest message 대상 block의 root 값이 같은지 등)
 2. 조건을 만족하는 validator들의 attest message에 대한 점수를 매깁니다.
@@ -63,6 +67,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 	- 반대상황이면 epoch의 첫 번째 slot에 해당하는 block의 root 값을 가져옵니다.
 
 다음 과정을 통해서 블록의 불변성을 보장합니다.
+
 ![pic11](./images/Pastedimage20240815174205.png)
 1. validate_on_attestation : target으로 선정한 epoch에 대한 검사
 2. store_target_checkpoint_state : store에 checkpoint에 대한 관리
@@ -79,6 +84,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 -  최근의 slot이 attestation 중인 slot보다 1 크거나 같은지 확인
 
 **attestation data**에 대한 정보를 검증을 거친 후 **checkpoint** 관리로 넘어갑니다.
+
 ![pic13](./images/Pastedimage20240815181033.png)
 - store에 checkpoint가 저장되어있는지 확인
 - 저장 유/무에 따라 state를 복사하거나 다음 과정으로 넘어갑니다.
@@ -86,6 +92,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - base state의 slot이 작으면 **process_slots** 함수를 호출합니다
 
 **process_slots**에서 과정은 다음과 같습니다.
+
 ![pic14](./images/Pastedimage20240815193320.png)
 - **process_slots**에서 target slot보다 작을 때 까지 slot을 1씩 더합니다.
 - 다음 slot이 epoch에 해당하는 첫 slot인 경우에 **process_epoch** 함수를 호출합니다.
@@ -98,7 +105,8 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - 이전과 현재 epoch에서의 검증에 참여한 validator들의 active_balance의 값을 구합니다.
 - 구한 값을 이용해서 **weigh_justification_and_finalization** 함수를 호출합니다.
 
-**weigh_justification_and_finalization** 과정은 다음과 같습니다. 
+**weigh_justification_and_finalization** 과정은 다음과 같습니다.
+
 ![pic17](./images/Pastedimage20240815194620.png)
 **justified checkpoint** 부터 수정한 후 **finalization checkpoint**를 수정합니다
 - justified 했던 epoch들 중에서 마지막 epoch을 제거하고 새로운 epoch에 대한 값(**0**)을 할당합니다.
@@ -154,4 +162,4 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 ### ETC
 ![pic20](./images/Pastedimage20240815210827.png)
 ![pic21](./images/Pastedimage20240815210843.png)
-자료 검토해주신 @vero 멘토님께 감사드립니다.
+자료 검토해주신 `@vero` 멘토님께 감사드립니다.
