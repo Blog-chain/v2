@@ -19,7 +19,7 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 이더리움의 블록 구조의 **body**에 대한 **Field**는 다음과 같습니다. 
 ![pic1](./images/Pastedimage20240815153418.png)
 여러 Field 중 **attestations**에 Gasper가 관여하게 됩니다.
-
+ 
 **attestations** Field는 다음과 같습니다.
 ![pic2](./images/Pastedimage20240815153612.png)
 - aggregation_bits : validator의 참여 유/무를 나타냅니다 (참여: 1, 불참 : 0)![pic3](./images/Pastedimage20240815211036.png)
