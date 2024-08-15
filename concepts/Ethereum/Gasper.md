@@ -40,6 +40,7 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 #### LMD GHOST
 ![pic5](./images/Pastedimage20240815160853.png)
 LMD GHOST vote 결과로 선정된 head block에 대한 root 값을  beacon_block_root로 저장합니다.
+
 head block은 다음과 같은 과정을 통해서 선정됩니다.
 
 ![pic6](./images/Pastedimage20240815164141.png)
