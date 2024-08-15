@@ -135,7 +135,9 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 **4. [E] - [E] - [J] - [J] 인 경우**
 - 결과 : E  E  [**F**]  J
 
-> **E: Any epoch** **J: Justified epoch** **F: Finalized epoch**
+> **E: Any epoch**
+> **J: Justified epoch**
+> **F: Finalized epoch**
 
 **justfied checkpoint**가 새로 생기면 **이전의 justfied checkpoint**는 **finalized checkpoint**로 설정되며 justified와 finalized 간의 link를 **supermajority link**라고합니다.
 
