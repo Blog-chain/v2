@@ -22,7 +22,7 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 
 **attestations** Field는 다음과 같습니다.
 ![pic2](../images/Pasted image 20240815153 612.png)
-- aggregation_bits : validator의 참여 유/무를 나타냅니다 (참여: 1, 불참 : 0)![pic3](../images/Pasted image 20240815211036.png)
+- aggregation_bits : validator의 참여 유/무를 나타냅니다 (참여: 1, 불참 : 0)![pic3](./images/Pasted image 20240815211036.png)
 - data : attestation에 대한 여러 Field가 존재합니다.
 - signature : 검증에 참여한 validator들의 signature을 BLS signature 알고리즘을 통해서 합친 것을 의미합니다. 
 
