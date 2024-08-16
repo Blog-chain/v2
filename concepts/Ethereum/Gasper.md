@@ -1,22 +1,21 @@
 ---
-title: Gasper Algorithm
+title: Gasper
 description: An overview of the Gasper consensus algorithm used in Ethereum.
 aliases:
-  - LMD-GHOST
-  - Casper FFG
+  - Gasper Algorithm
 tags:
   - ethereum
   - consensus
 date: 2024-08-15
 ---
 
-# Summary
+## Summary
 
 Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네트워크 상의 신뢰할 수 없거나 검증자가 악의적인 경우에도 합의가 가능하도록 하는 것이 Gasper의 목표입니다.
 
 이더리움 공식 github 문서를 통해 Gasper의 합의 과정을 분석한 글입니다.
 
-### Description
+## Description
 
 이더리움의 블록 구조의 **body**에 대한 **Field**는 다음과 같습니다.
 ![pic1](./images/Pastedimage20240815153418.png)
@@ -40,7 +39,7 @@ Gasper는 Casper FFG와 LMD GHOST를 합친 것을 의미하며 블록체인 네
 - source : Casper FFG에 의해 가장 최근의 justified된 checkpoint를 의미합니다
 - target : 가장 최근의 epoch을 의미합니다.
 
-#### LMD GHOST
+### LMD GHOST
 
 ![pic5](./images/Pastedimage20240815160853.png)
 LMD GHOST vote 결과로 선정된 head block에 대한 root 값을 beacon_block_root로 저장합니다.
@@ -68,7 +67,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 1. validator들의 attest message가 가리키는 block 중에서 가장 큰 가중치를 가진 블록을 head로 설정
 2. 가중치를 매기는 것은 validator의 effective_balance의 합을 통해서 결정하게 된다.
 
-#### Casper FFG
+### Casper FFG
 
 ![pic9](./images/Pastedimage20240815173318.png)
 
@@ -165,7 +164,7 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 
 > justified가 되기 위해서는 전체 active validator의 2/3 이상의 target epoch에 대한 attestation이 모여야 한다.
 
-### References
+## References
 
 - https://eth2book.info/capella/part2/consensus/casper_ffg/
 - https://beaconcha.in/
@@ -173,14 +172,14 @@ head block은 다음과 같은 과정을 통해서 선정됩니다.
 - [https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md")
 - https://nullorm.tistory.com/56
 
-### Related Keywords
-
-- [[Consensus]]
-- [[Casper FFG]]
-- [[LMD GHOST]]
-
-### ETC
+### Special Thanks to
 
 ![pic20](./images/Pastedimage20240815210827.png)
 ![pic21](./images/Pastedimage20240815210843.png)
 자료 검토해주신 `@vero` 멘토님께 감사드립니다.
+
+## Related Keywords
+
+- [[Consensus]]
+- [[Casper FFG]]
+- [[LMD GHOST]]
